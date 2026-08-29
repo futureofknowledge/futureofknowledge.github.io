@@ -1,18 +1,19 @@
+name: CI
+
 on:
   push:
+    branches: [master]
   pull_request:
-    types: [opened, synchronize]
+
 jobs:
   build:
+    name: build and check links
     runs-on: ubuntu-latest
-    name: script/cibuild
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2
+          ruby-version: "3.2"
           bundler-cache: true
-      - name: build
-        run: script/bootstrap
-      - name: test
-        run: script/cibuild
+      - run: bundle exec jekyll build
+      - run: bundle exec htmlproofer ./_site --disable-external --ignore-empty-alt

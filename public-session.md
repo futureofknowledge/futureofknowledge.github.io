@@ -8,7 +8,7 @@ permalink: /public-session/
 
 **Tuesday 17 November 2026, afternoon**
 [VENUE TBC], Amsterdam
-Free to attend. [Registration opens [DATE].]([REGISTRATION LINK])
+Free to attend. Registration opens [DATE] at [REGISTRATION LINK].
 
 The second afternoon of the convening is open to anyone: practitioners, policymakers, students, journalists, and members of the public.
 

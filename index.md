@@ -37,7 +37,7 @@ The day closes by joining the two halves, in a session that drafts the convening
 
 A presentation of the Invisible Language Monitor and LITMUS, a panel with partner organisations, and the premiere of first footage from a film made with the Toto community of Totopara, a language with roughly 1,000 remaining speakers.
 
-[Registration opens [DATE].]([REGISTRATION LINK])
+Registration opens [DATE] at [REGISTRATION LINK].
 
 ### Hosts
 
@@ -45,4 +45,4 @@ Convened at the University of Amsterdam by [ASCoR / DEPARTMENT — CONFIRM], wit
 
 Supported by the University of Amsterdam strategic theme [Fair and Resilient Societies](https://fairandresilientsocieties.uva.nl/en).
 
-Contact: [saurabh khanna](mailto:s.khanna@uva.nl)
+Contact: [Saurabh Khanna](mailto:s.khanna@uva.nl)

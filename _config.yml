@@ -5,7 +5,6 @@ url: https://futureofknowledge.github.io
 lang: en-GB
 
 theme: jekyll-theme-minimal
-show_downloads: false
 
 event_dates: 16–17 November 2026
 event_place: Amsterdam
@@ -23,6 +22,11 @@ nav:
 plugins:
   - jekyll-seo-tag
 
+sass:
+  style: compressed
+
+# Note: setting `exclude` replaces Jekyll's defaults rather than adding to
+# them, so the Gemfile entries have to stay listed here.
 exclude:
   - Gemfile
   - Gemfile.lock
