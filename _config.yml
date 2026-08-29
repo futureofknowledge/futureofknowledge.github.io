@@ -1,6 +1,31 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Future of Knowledge
+tagline: Amsterdam 2026
+description: A two-day convening on what enters the world's knowledge record, and what makes it back out again. Amsterdam, 16-17 November 2026.
+url: https://futureofknowledge.github.io
+lang: en-GB
+
 theme: jekyll-theme-minimal
+show_downloads: false
+
+event_dates: 16–17 November 2026
+event_place: Amsterdam
+
+nav:
+  - title: Overview
+    url: /
+  - title: Programme
+    url: /programme/
+  - title: Public session
+    url: /public-session/
+  - title: Practical
+    url: /practical/
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor

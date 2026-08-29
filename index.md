@@ -1,123 +1,48 @@
 ---
 layout: default
+title: Overview
+permalink: /
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Whose knowledge gets in, and whose comes back
 
-[Link to another page](./another-page.html).
+Fewer than one hundred of the world's roughly 7,400 living languages account for most of what exists on the web, in machine-learning datasets, and in the models built on top of them. The gap is measurable, and it is systematic rather than random. African, Asian and Oceanian languages score worse than European and American ones, and languages carried orally are excluded more sharply still, because archives rescue written material and not spoken.
 
-There should be whitespace between paragraphs.
+Two communities work on this from opposite ends. One documents knowledge that never enters the record at all. The other builds the archives, journals and corpora through which recorded knowledge circulates. They rarely meet.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+They are working on one cycle rather than two problems. What communities put into the commons becomes the corpus that trains the next generation of systems, and those systems decide whose knowledge stays legible. This convening puts both halves in one room for two days.
 
-# Header 1
+### At a glance
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+| | |
+|---|---|
+| **Dates** | 16–17 November 2026 |
+| **Place** | Amsterdam — [VENUE TBC] |
+| **Format** | Closed working sessions, plus one public session open to all |
+| **Size** | Around twenty participants from three continents |
 
-## Header 2
+### Day one — Whose knowledge gets in
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Documentation and measurement. What is missing from the record, how we know it is missing, and what communities recording their own knowledge need from the people building the tools. Sessions draw on the Invisible Language Monitor and LITMUS, on community-led documentation in Totopara and Ladakh, and on machine translation in asylum procedure.
 
-### Header 3
+### Day two — Whose knowledge comes back
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Circulation. Open archives, open scholarly publishing, open web corpora and new-language encyclopedias: the infrastructures that decide whether recorded knowledge reaches the people it came from, and whether it reaches the systems that will be trained on it next.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+The day closes by joining the two halves, in a session that drafts the convening's shared statement to international policy bodies.
 
-#### Header 4
+### Public session
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Tuesday 17 November, afternoon. Free and open to all.**
 
-##### Header 5
+A presentation of the Invisible Language Monitor and LITMUS, a panel with partner organisations, and the premiere of first footage from a film made with the Toto community of Totopara, a language with roughly 1,000 remaining speakers.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[Registration opens [DATE].]([REGISTRATION LINK])
 
-###### Header 6
+### Hosts
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Convened at the University of Amsterdam by [ASCoR / DEPARTMENT — CONFIRM], with colleagues from the Faculty of Humanities and the Faculty of Science.
 
-### There's a horizontal rule below this.
+Supported by the University of Amsterdam strategic theme [Fair and Resilient Societies](https://fairandresilientsocieties.uva.nl/en).
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Contact: [saurabh khanna](mailto:s.khanna@uva.nl)
