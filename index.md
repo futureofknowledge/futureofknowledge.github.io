@@ -1,48 +1,68 @@
 ---
 layout: default
-title: Overview
 permalink: /
 ---
 
-## Whose knowledge gets in, and whose comes back
+Few would dispute that a central aim of the scientific endeavour is to sustain open access to validated knowledge for everyone on the planet. Measured against that aim, the record to date falls short, in two distinct but connected respects.
 
-Fewer than one hundred of the world's roughly 7,400 living languages account for most of what exists on the web, in machine-learning datasets, and in the models built on top of them. The gap is measurable, and it is systematic rather than random. African, Asian and Oceanian languages score worse than European and American ones, and languages carried orally are excluded more sharply still, because archives rescue written material and not spoken.
+The first is a problem of **representation**: whose knowledge enters the record at all. Fewer than 1% of the world's roughly 7,600 living languages account for the overwhelming majority of material on the web, in machine-learning datasets, and in the models trained on them. The shortfall is measurable, and systematic rather than random. African, Asian and Oceanian languages are represented more poorly than European and American ones, and languages carried orally more poorly still, because archives preserve written material and not spoken.
 
-Two communities work on this from opposite ends. One documents knowledge that never enters the record at all. The other builds the archives, journals and corpora through which recorded knowledge circulates. They rarely meet.
+The second is a problem of **access**: whether knowledge that has been recorded remains open to those it belongs to. Peer review was already under strain, sustained by overworked reviewers with limited incentive, before the recent surge of AI-assisted submissions. It sits within an economy of article processing charges, proprietary metrics and paywalled venues that determines who may publish and who may read.
 
-They are working on one cycle rather than two problems. What communities put into the commons becomes the corpus that trains the next generation of systems, and those systems decide whose knowledge stays legible. This convening puts both halves in one room for two days.
+The two are stages of a single cycle rather than separate problems, yet the communities working on them seldom meet. What is contributed to the commons becomes the corpus on which the next generation of systems is trained, and those systems in turn determine whose knowledge remains legible. This symposium addresses both over two days.
 
-### At a glance
+# At a glance
 
 | | |
 |---|---|
-| **Dates** | 16–17 November 2026 |
-| **Place** | Amsterdam — [VENUE TBC] |
-| **Format** | Closed working sessions, plus one public session open to all |
-| **Size** | Around twenty participants from three continents |
+| **Venue** | [VENUE TBC], Amsterdam |
+| **Format** | Closed working sessions, with one public session open to all |
+| **Participants** | Approximately twenty, from three continents |
 
-### Day one — Whose knowledge gets in
+# Programme
 
-Documentation and measurement. What is missing from the record, how we know it is missing, and what communities recording their own knowledge need from the people building the tools. Sessions draw on the Invisible Language Monitor and LITMUS, on community-led documentation in Totopara and Ladakh, and on machine translation in asylum procedure.
+Sessions are structured as short provocations followed by small-group work rather than as conference presentations. What each group produces feeds into a shared statement, a draft of which circulates to participants in advance.
 
-### Day two — Whose knowledge comes back
+## Monday 16 November — Representation: whose knowledge gets in
 
-Circulation. Open archives, open scholarly publishing, open web corpora and new-language encyclopedias: the infrastructures that decide whether recorded knowledge reaches the people it came from, and whether it reaches the systems that will be trained on it next.
+Day one concerns what never enters the record: how absence is identified and measured, and what communities documenting their own knowledge require from those who build the tools.
 
-The day closes by joining the two halves, in a session that drafts the convening's shared statement to international policy bodies.
+| | |
+|---|---|
+| [TIME] | Welcome and framing |
+| [TIME] | The invisible information framework: measuring the distance between realities and their representations, an overview of current projects, and the case of Totopara |
+| [TIME] | Missing cohorts — Peter Claus |
+| [TIME] | Break |
+| [TIME] | Consequences for asylum procedure — Respond Crisis Translation |
+| [TIME] | Lunch |
+| [TIME] | Encoding an endangered language — Tom Mullaney |
+| [TIME] | Learning an endangered language — Sonali Nag |
+| [TIME] | Filming an endangered language — Safdar Rahaman |
+| [TIME] | Breakout groups |
+| [TIME] | Plenary: revisions to the statement arising from day one |
+| [TIME] | Dinner |
 
-### Public session
+## Tuesday 17 November — Access: open for all humans
 
-**Tuesday 17 November, afternoon. Free and open to all.**
+Day two concerns circulation and its economics: whether recorded knowledge reaches the people it came from, and on what terms.
 
-A presentation of the Invisible Language Monitor and LITMUS, a panel with partner organisations, and the premiere of first footage from a film made with the Toto community of Totopara, a language with roughly 1,000 remaining speakers.
+| | |
+|---|---|
+| [TIME] | The Public Knowledge Project — John Willinsky |
+| [TIME] | Wikimedia — Martin Gerlach |
+| [TIME] | Break |
+| [TIME] | Article processing charges and a live APC monitor — Juan Alperin, ScholCommLab |
+| [TIME] | The science of science — Charles Rahal, Oxford |
+| [TIME] | Open metrics — Ben Domingue, Stanford |
+| [TIME] | Consolidating the shared statement |
+| [TIME] | Lunch |
+| [TIME] | **Public session** — open to all |
+| [TIME] | Close |
 
-Registration opens [DATE] at [REGISTRATION LINK].
+*This programme is a working draft. Session titles and times are subject to change.*
 
-### Hosts
+# Hosts
 
-Convened at the University of Amsterdam by [ASCoR / DEPARTMENT — CONFIRM], with colleagues from the Faculty of Humanities and the Faculty of Science.
+Convened at the University of Amsterdam by the [Invisible Information Lab](https://invisible.info) and [ASCoR / DEPARTMENT — CONFIRM], with the support of the University of Amsterdam strategic theme [Fair and Resilient Societies](https://fairandresilientsocieties.uva.nl/en).
 
-Supported by the University of Amsterdam strategic theme [Fair and Resilient Societies](https://fairandresilientsocieties.uva.nl/en).
-
-Contact: [Saurabh Khanna](mailto:s.khanna@uva.nl)
+Enquiries: [Saurabh Khanna](mailto:s.khanna@uva.nl)

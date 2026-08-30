@@ -1,6 +1,6 @@
-title: Future of Knowledge
+title: Future of Knowledge Symposium
 tagline: Amsterdam 2026
-description: A two-day convening on what enters the world's knowledge record, and what makes it back out again. Amsterdam, 16-17 November 2026.
+description: A two-day symposium on what enters the world's knowledge record, and what makes it back out again. Amsterdam, 16-17 November 2026.
 url: https://futureofknowledge.github.io
 lang: en-GB
 
@@ -9,21 +9,17 @@ theme: jekyll-theme-minimal
 event_dates: 16–17 November 2026
 event_place: Amsterdam
 
-nav:
-  - title: Overview
-    url: /
-  - title: Programme
-    url: /programme/
-  - title: Public session
-    url: /public-session/
-  - title: Practical
-    url: /practical/
-
 plugins:
   - jekyll-seo-tag
 
 sass:
   style: compressed
+
+# github-pages bundles jekyll-titles-from-headings, which would otherwise
+# make the first heading the page title. Keep the tab and search result as
+# "Future of Knowledge Symposium | Amsterdam 2026" regardless of how the page opens.
+titles_from_headings:
+  enabled: false
 
 # Note: setting `exclude` replaces Jekyll's defaults rather than adding to
 # them, so the Gemfile entries have to stay listed here.

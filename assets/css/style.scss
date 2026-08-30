@@ -18,21 +18,35 @@ section li {
   line-height: 1.65;
 }
 
-section h2 {
-  margin-top: 0;
+/* Sidebar logo mark. width/height attributes carry the intrinsic ratio so
+   the browser reserves space before it loads; CSS sets the display size. */
+.site-logo {
+  display: block;
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1.4em;
+}
+
+/* One long document: h1 opens a section, h2 a day inside it. The rule above
+   each h1 is what separates the sections, so h1 carries the border. */
+section h1 {
+  margin-top: 2.6em;
+  padding-top: 1.3em;
+  border-top: 1px solid #eaeaea;
+  font-size: 22px;
   font-weight: 400;
   letter-spacing: -0.01em;
 }
 
-section h3 {
-  margin-top: 2.4em;
-  padding-top: 1.2em;
-  border-top: 1px solid #eaeaea;
-  font-weight: 600;
+section h2 {
+  margin-top: 2em;
   font-size: 17px;
+  font-weight: 600;
 }
 
-section h3 + p {
+section h1 + p,
+section h2 + p {
   margin-top: 0.6em;
 }
 
@@ -79,53 +93,17 @@ section table th {
   line-height: 1.5;
 }
 
-.site-nav {
-  margin: 1.8em 0;
-}
-
-.site-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.site-nav li {
-  margin-bottom: 0.45em;
-}
-
-.site-nav a {
-  font-size: 15px;
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-}
-
-.site-nav a:hover {
-  border-bottom-color: currentColor;
-}
-
-.site-nav a[aria-current="page"] {
-  color: #111;
-  font-weight: 600;
-}
-
 .site-host {
+  margin-top: 2em;
   font-size: 13px;
   color: #7a7a7a;
   line-height: 1.5;
 }
 
 /* Quality floor */
-a:focus-visible,
-.site-nav a:focus-visible {
+a:focus-visible {
   outline: 2px solid #205caa;
   outline-offset: 2px;
-}
-
-@media print {
-  header nav,
-  footer {
-    display: none;
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {

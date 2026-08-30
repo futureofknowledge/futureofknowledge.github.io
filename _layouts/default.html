@@ -9,21 +9,13 @@
   <body>
     <div class="wrapper">
       <header>
+        <img class="site-logo" src="{{ '/assets/img/logo.png' | relative_url }}"
+             alt="" width="1000" height="657" decoding="async">
         <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
         <p class="site-meta">
           {{ site.event_dates }}<br>
           {{ site.event_place }}
         </p>
-
-        <nav class="site-nav">
-          <ul>
-            {% for item in site.nav %}
-            <li>
-              <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
-            </li>
-            {% endfor %}
-          </ul>
-        </nav>
 
         <p class="site-host">
           University of Amsterdam<br>
@@ -34,10 +26,6 @@
       <section>
         {{ content }}
       </section>
-
-      <footer>
-        <p><small>Materials from this convening are published openly.</small></p>
-      </footer>
     </div>
   </body>
 </html>
