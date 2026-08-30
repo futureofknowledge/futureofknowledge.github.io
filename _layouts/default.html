@@ -3,19 +3,19 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base target="_blank">
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <img class="site-logo" src="{{ '/assets/img/logo.png' | relative_url }}"
-             alt="" width="1000" height="657" decoding="async">
-        <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-        <p class="site-meta">
-          {{ site.event_dates }}<br>
-          {{ site.event_place }}
-        </p>
+        <img class="site-logo"
+             src="{{ '/assets/img/logo.png?v=' | append: site.github.build_revision | relative_url }}"
+             alt="" width="480" height="195" decoding="async">
+        <h1 class="site-title"><a href="{{ '/' | relative_url }}" target="_self">{{ site.title }}</a></h1>
+        <p class="site-meta">{{ site.event_dates }}</p>
+        <p class="site-place">{{ site.event_place }}</p>
 
         <p class="site-host">
           University of Amsterdam<br>

@@ -3,66 +3,42 @@ layout: default
 permalink: /
 ---
 
-Few would dispute that a central aim of the scientific endeavour is to sustain open access to validated knowledge for everyone on the planet. Measured against that aim, the record to date falls short, in two distinct but connected respects.
+It is hard to deny that human scientific inquiry has long rested on two foundational ideals: i) to seek knowledge without bias across space and time, and ii) to share that knowledge, once validated, with all those who might benefit from it. We have been falling short on both counts by quite a margin.
 
-The first is a problem of **representation**: whose knowledge enters the record at all. Fewer than 1% of the world's roughly 7,600 living languages account for the overwhelming majority of material on the web, in machine-learning datasets, and in the models trained on them. The shortfall is measurable, and systematic rather than random. African, Asian and Oceanian languages are represented more poorly than European and American ones, and languages carried orally more poorly still, because archives preserve written material and not spoken.
+The first ideal presents a challenge of **representation** - whose knowledge is recorded and preserved in the first place. As more of human life tranitions to the digital realm, the digital record that results remains an uneven portrait of human experience. Structural, algorithmic, and social obstacles combine to push some forms of knowledge out of view, and language is among the strongest of them. Fewer than 1% of the world's roughly 7,600 living languages account for most web content, most machine-learning datasets, and the models trained on them. The gaps are measurable and systematic rather than random: languages of Africa, Asia, and Oceania are represented less well than those of Europe and the Americas, and primarily oral languages less well still, since archives tend to prioritise written material over speech.
 
-The second is a problem of **access**: whether knowledge that has been recorded remains open to those it belongs to. Peer review was already under strain, sustained by overworked reviewers with limited incentive, before the recent surge of AI-assisted submissions. It sits within an economy of article processing charges, proprietary metrics and paywalled venues that determines who may publish and who may read.
+The second ideal presents a challenge of **access** - whether knowledge that has been documented remains available to the communities it is meant to serve. Peer review was under considerable strain well before the recent rise in AI-assisted submissions, sustained by overburdened reviewers with limited incentive. It operates within an economy of article processing charges, proprietary metrics, and paywalled venues that determines who may publish and who may read.
 
-The two are stages of a single cycle rather than separate problems, yet the communities working on them seldom meet. What is contributed to the commons becomes the corpus on which the next generation of systems is trained, and those systems in turn determine whose knowledge remains legible. This symposium addresses both over two days.
+These shortfalls do not stay still; they compound. The record is no longer only a record: it is now the material used to train the systems through which knowledge is searched, translated, summarised, and assessed. Those systems learn from whatever they are given, gaps and all, and return it at scale as though it were complete. A language missing from the record today is therefore harder to find tomorrow, and every barrier to access accepted now is built into the tools that follow. The future of knowledge is being decided by choices that are still ours to make.
 
-# At a glance
-
-| | |
-|---|---|
-| **Venue** | [VENUE TBC], Amsterdam |
-| **Format** | Closed working sessions, with one public session open to all |
-| **Participants** | Approximately twenty, from three continents |
+This symposium takes up those choices over two days. Day one asks how invisibility can be measured, what causes it, and what can be done about it. Day two asks what a better system would look like: one free of publisher pressure, with dynamic documents in place of static papers, real incentives to review, and a rethinking of the key metrics themselves. The aim across both days is not only to explain what has gone wrong, but to set out what should replace it.
 
 # Programme
 
-Sessions are structured as short provocations followed by small-group work rather than as conference presentations. What each group produces feeds into a shared statement, a draft of which circulates to participants in advance.
+## Monday 16 November - Representation
 
-## Monday 16 November — Representation: whose knowledge gets in
+Day one concerns what never enters the record: how invisibility is identified and measured, and what communities documenting their own knowledge require from those who build the tools.
 
-Day one concerns what never enters the record: how absence is identified and measured, and what communities documenting their own knowledge require from those who build the tools.
+- The invisible information framework
+- Measuring the distance between realities and their representations
+- Language as a case study 
+- Encoding digitally disadvantaged languages
+- Learning and sustaining at the margins
+- Consequences for asylum procedure
+- Youth missing from higher education and research
 
-| | |
-|---|---|
-| [TIME] | Welcome and framing |
-| [TIME] | The invisible information framework: measuring the distance between realities and their representations, an overview of current projects, and the case of Totopara |
-| [TIME] | Missing cohorts — Peter Claus |
-| [TIME] | Break |
-| [TIME] | Consequences for asylum procedure — Respond Crisis Translation |
-| [TIME] | Lunch |
-| [TIME] | Encoding an endangered language — Tom Mullaney |
-| [TIME] | Learning an endangered language — Sonali Nag |
-| [TIME] | Filming an endangered language — Safdar Rahaman |
-| [TIME] | Breakout groups |
-| [TIME] | Plenary: revisions to the statement arising from day one |
-| [TIME] | Dinner |
+## Tuesday 17 November - Access
 
-## Tuesday 17 November — Access: open for all humans
+Day two concerns what an open-access landscape should look like and the incentives needed to sustain it: whether recorded knowledge reaches the people it came from, and on what terms.
 
-Day two concerns circulation and its economics: whether recorded knowledge reaches the people it came from, and on what terms.
-
-| | |
-|---|---|
-| [TIME] | The Public Knowledge Project — John Willinsky |
-| [TIME] | Wikimedia — Martin Gerlach |
-| [TIME] | Break |
-| [TIME] | Article processing charges and a live APC monitor — Juan Alperin, ScholCommLab |
-| [TIME] | The science of science — Charles Rahal, Oxford |
-| [TIME] | Open metrics — Ben Domingue, Stanford |
-| [TIME] | Consolidating the shared statement |
-| [TIME] | Lunch |
-| [TIME] | **Public session** — open to all |
-| [TIME] | Close |
-
-*This programme is a working draft. Session titles and times are subject to change.*
+- Open infrastructure for scholarly publishing
+- Article processing charges and the houses that levy them
+- Wikipedia as public knowledge infrastructure
+- The science of science
+- Open metrics for scholarly communication, and what they are able/unable to measure
 
 # Hosts
 
-Convened at the University of Amsterdam by the [Invisible Information Lab](https://invisible.info) and [ASCoR / DEPARTMENT — CONFIRM], with the support of the University of Amsterdam strategic theme [Fair and Resilient Societies](https://fairandresilientsocieties.uva.nl/en).
+Convened at the University of Amsterdam by the [Invisible Information Lab](https://invisible.info) and the Amsterdam School of Communication Research, with the support of the university's strategic theme on [Fair and Resilient Societies](https://fairandresilientsocieties.uva.nl/en).
 
-Enquiries: [Saurabh Khanna](mailto:s.khanna@uva.nl)
+Enquiries should be directed to [Saurabh Khanna](mailto:s.khanna@uva.nl).

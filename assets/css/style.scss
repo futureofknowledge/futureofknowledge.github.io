@@ -4,10 +4,44 @@
 @import "jekyll-theme-minimal";
 
 /* ---------------------------------------------------------------
-   Future of Knowledge — overrides on jekyll-theme-minimal.
-   Restrained on purpose: better rhythm and a usable sidebar nav,
-   nothing that fights the theme.
+   Future of Knowledge Symposium — overrides on jekyll-theme-minimal.
+   A grayscale palette: the theme's blue is replaced throughout, so
+   the only colour on the page is the logo itself.
    --------------------------------------------------------------- */
+
+$ink:        #1a1a1a;  // headings, strong text, links
+$body:       #333333;  // running text
+$muted:      #6b6b6b;  // dates, venue, host, secondary notes
+$rule:       #d8d8d8;  // section hairlines
+$rule-faint: #ececec;  // table row separators
+$marker:     #a8a8a8;  // list bullets, link underlines
+
+body {
+  color: $body;
+}
+
+h1, h2, h3, h4, h5, h6,
+strong {
+  color: $ink;
+}
+
+/* Grayscale links cannot rely on hue to distinguish themselves from
+   running text, so they are underlined instead. The theme bolds links
+   on hover, which reflows the line; that is overridden here. */
+a {
+  color: $ink;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: $marker;
+  text-underline-offset: 0.15em;
+}
+
+a:hover,
+a:focus {
+  color: #000;
+  font-weight: inherit;
+  text-decoration-color: currentColor;
+}
 
 section {
   max-width: 620px;
@@ -18,22 +52,12 @@ section li {
   line-height: 1.65;
 }
 
-/* Sidebar logo mark. width/height attributes carry the intrinsic ratio so
-   the browser reserves space before it loads; CSS sets the display size. */
-.site-logo {
-  display: block;
-  width: 200px;
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 1.4em;
-}
-
 /* One long document: h1 opens a section, h2 a day inside it. The rule above
    each h1 is what separates the sections, so h1 carries the border. */
 section h1 {
   margin-top: 2.6em;
   padding-top: 1.3em;
-  border-top: 1px solid #eaeaea;
+  border-top: 1px solid $rule;
   font-size: 22px;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -50,8 +74,26 @@ section h2 + p {
   margin-top: 0.6em;
 }
 
-/* Tables carry the schedule and the at-a-glance block, so they need
-   to read as structured text rather than as data grids. */
+/* Session topics read as a list of ideas, not a dense bulleted block. */
+section ul {
+  margin: 1.3em 0;
+  padding-left: 1.1em;
+}
+
+section li {
+  margin-bottom: 0.55em;
+  padding-left: 0.2em;
+}
+
+section li::marker {
+  color: $marker;
+}
+
+section em {
+  color: $muted;
+}
+
+/* Kept for tabular content: none is on the page at present. */
 section table {
   width: 100%;
   border-collapse: collapse;
@@ -62,13 +104,13 @@ section table {
 section table td {
   padding: 0.55em 1em 0.55em 0;
   border: 0;
-  border-bottom: 1px solid #f0f0f0;
+  border-bottom: 1px solid $rule-faint;
   vertical-align: top;
 }
 
 section table td:first-child {
   width: 34%;
-  color: #555;
+  color: $muted;
   white-space: nowrap;
 }
 
@@ -76,7 +118,16 @@ section table th {
   display: none;
 }
 
-/* Sidebar */
+/* Sidebar logo mark. width/height attributes carry the intrinsic ratio so
+   the browser reserves space before it loads; CSS sets the display size. */
+.site-logo {
+  display: block;
+  width: 240px;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1.4em;
+}
+
 .site-title {
   margin-bottom: 0.2em;
 }
@@ -86,23 +137,32 @@ section table th {
   text-decoration: none;
 }
 
-.site-meta {
-  margin-top: 0;
-  color: #7a7a7a;
+.site-meta,
+.site-place {
+  color: $muted;
   font-size: 14px;
   line-height: 1.5;
+}
+
+/* The dates stand clear of the title above and the venue below. */
+.site-meta {
+  margin: 1.2em 0;
+}
+
+.site-place {
+  margin: 0;
 }
 
 .site-host {
   margin-top: 2em;
   font-size: 13px;
-  color: #7a7a7a;
+  color: $muted;
   line-height: 1.5;
 }
 
 /* Quality floor */
 a:focus-visible {
-  outline: 2px solid #205caa;
+  outline: 2px solid $ink;
   outline-offset: 2px;
 }
 
