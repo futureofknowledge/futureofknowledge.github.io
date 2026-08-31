@@ -37,4 +37,4 @@ Day two concerns access to scholarly knowledge and the terms on which it is acce
 
 # Hosts
 
-Convened at the Amsterdam School of Communication Research, University of Amsterdam by the [Invisible Information Lab](https://invisible.info) with support from the university's strategic theme on [Fair and Resilient Societies](https://fairandresilientsocieties.uva.nl/en). Enquiries should be directed to [Dr Saurabh Khanna](mailto:s.khanna@uva.nl).
+Convened at the Amsterdam School of Communication Research, University of Amsterdam by the [Invisible Information Lab](https://invisible.info) with support from the university's strategic theme on [Fair and Resilient Societies](https://fairandresilientsocieties.uva.nl/en). Enquiries can be directed to [Dr Saurabh Khanna](mailto:s.khanna@uva.nl).
