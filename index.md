@@ -37,4 +37,4 @@ Day two concerns access to scholarly knowledge and the terms on which it is acce
 
 # Hosts
 
-The Future of Knowledge Consortium is hosted at the Amsterdam School of Communication Research by the [Invisible Information Lab](https://invisible.info) with support from the University of Amsterdam's strategic theme on fair and resilient societies. Enquiries can be directed to [Dr Saurabh Khanna](mailto:s.khanna@uva.nl).
+The Future of Knowledge Consortium is hosted at the Amsterdam School of Communication Research by the [Invisible Information Lab](https://invisible.info) with support from the University of Amsterdam's strategic theme on fair and resilient societies. Enquiries can be directed to [Saurabh Khanna](mailto:s.khanna@uva.nl).
