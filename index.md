@@ -27,14 +27,14 @@ Day one concerns the representation of knowledge in digital infrastructures, and
 
 ## 18 November - Access
 
-Day two concerns the access to knowledge and scholarly communication, and the consequences of its absence for communities, languages, and research.
+Day two concerns access to scholarly knowledge and the terms on which it is accessed and measured.
 
 - Open infrastructure for scholarly publishing
-- Article processing charges and the houses that levy them
+- Article processing charges and the institutions that levy them
 - Wikipedia as public knowledge infrastructure
-- The science of science
+- The science of science: concentration of funding, publishing power, and prestige
 - Open metrics for scholarly communication, and what they are able/unable to measure
 
 # Hosts
 
-Convened at the Amsterdam School of Communication Research, University of Amsterdam by the [Invisible Information Lab](https://invisible.info) with the support of the university's strategic theme on [Fair and Resilient Societies](https://fairandresilientsocieties.uva.nl/en). Enquiries should be directed to [Saurabh Khanna](mailto:s.khanna@uva.nl).
+Convened at the Amsterdam School of Communication Research, University of Amsterdam by the [Invisible Information Lab](https://invisible.info) with support from the university's strategic theme on [Fair and Resilient Societies](https://fairandresilientsocieties.uva.nl/en). Enquiries should be directed to [Dr Saurabh Khanna](mailto:s.khanna@uva.nl).
