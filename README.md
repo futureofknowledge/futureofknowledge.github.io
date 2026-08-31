@@ -1,7 +1,7 @@
 # Future of Knowledge Symposium — Amsterdam 2026
 
 Site for a two-day symposium at the University of Amsterdam,
-16–17 November 2026.
+17–18 November 2026.
 
 A Jekyll site served by GitHub Pages from the `master` branch. It uses the
 [minimal](https://github.com/pages-themes/minimal) theme as a gem, via

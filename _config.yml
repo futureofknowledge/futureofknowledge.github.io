@@ -1,12 +1,12 @@
 title: Future of Knowledge Symposium
 tagline: Amsterdam 2026
-description: A two-day symposium on the future of knowledge, hosted by the University of Amsterdam on 16–17 November 2026.
+description: A two-day symposium on the future of knowledge, hosted by the University of Amsterdam on 17–18 November 2026.
 url: https://futureofknowledge.github.io
 lang: en-GB
 
 theme: jekyll-theme-minimal
 
-event_dates: 16–17 November 2026
+event_dates: 17–18 November 2026
 event_place: Nieuwe Achtergracht 166, 1018 WS, Amsterdam
 
 plugins:
