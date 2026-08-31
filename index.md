@@ -9,7 +9,7 @@ Today, the first ideal faces a **representation** challenge around whose knowled
 
 The second ideal faces an **access** challenge around whether recorded knowledge and scholarly communication reaches the communities it is meant to benefit. Beyond questions of open access, the current system also raises concerns about the highly inequitable distribution of resources and opportunities for knowledge production and dissemination. This imbalance is reinforced by the concentration of research funding, publishing power, and academic prestige in a small number of countries and institutions. All of this happens within a landscape of high article processing fees, proprietary metrics, and paywalled journals that finally shapes who gets to publish and who gets to access this knowledge.
 
-The two-day Future of Knowledge Symposium aims to unpack these dynamics and map out a path ahead for a more equitable and inclusive future of knowledge. Day 1 focuses on *representation*, asking how visibility can be assessed, what remains invisible and for what reasons, and what actions can be taken to ensure scientific inquiry reflects the communities it is intended to benefit. Day 2 focuses on *access*, as we envision a scholarly communication ecosystem that is open, multilingual, fair, and sustainable, and consider incentives that could help set us on this path.
+The two-day Future of Knowledge Consortium aims to unpack these dynamics and map out a path ahead for a more equitable and inclusive future of knowledge. Day 1 focuses on *representation*, asking how visibility can be assessed, what remains invisible and for what reasons, and what actions can be taken to ensure scientific inquiry reflects the communities it is intended to benefit. Day 2 focuses on *access*, as we envision a scholarly communication ecosystem that is open, multilingual, fair, and sustainable, and consider incentives that could help set us on this path.
 
 # Programme
 
@@ -37,4 +37,4 @@ Day two concerns access to scholarly knowledge and the terms on which it is acce
 
 # Hosts
 
-Convened at the Amsterdam School of Communication Research, University of Amsterdam by the [Invisible Information Lab](https://invisible.info) with support from the university's strategic theme on [Fair and Resilient Societies](https://fairandresilientsocieties.uva.nl/en). Enquiries can be directed to [Dr Saurabh Khanna](mailto:s.khanna@uva.nl).
+The Future of Knowledge Consortium is hosted at the Amsterdam School of Communication Research by the [Invisible Information Lab](https://invisible.info) with support from the University of Amsterdam's strategic theme on fair and resilient societies. Enquiries can be directed to [Dr Saurabh Khanna](mailto:s.khanna@uva.nl).

@@ -1,4 +1,4 @@
-title: Future of Knowledge Symposium
+title: Future of Knowledge Consortium
 tagline: Amsterdam 2026
 description: A two-day symposium on the future of knowledge, hosted by the University of Amsterdam on 17–18 November 2026.
 url: https://futureofknowledge.github.io
@@ -7,6 +7,7 @@ lang: en-GB
 theme: jekyll-theme-minimal
 
 event_dates: 17–18 November 2026
+event_venue: University of Amsterdam
 event_place: Nieuwe Achtergracht 166, 1018 WS, Amsterdam
 
 plugins:
@@ -17,7 +18,7 @@ sass:
 
 # github-pages bundles jekyll-titles-from-headings, which would otherwise
 # make the first heading the page title. Keep the tab and search result as
-# "Future of Knowledge Symposium | Amsterdam 2026" regardless of how the page opens.
+# "Future of Knowledge Consortium | Amsterdam 2026" regardless of how the page opens.
 titles_from_headings:
   enabled: false
 

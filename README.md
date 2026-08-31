@@ -1,4 +1,4 @@
-# Future of Knowledge Symposium — Amsterdam 2026
+# Future of Knowledge Consortium — Amsterdam 2026
 
 Site for a two-day symposium at the University of Amsterdam,
 17–18 November 2026.

@@ -4,7 +4,7 @@
 @import "jekyll-theme-minimal";
 
 /* ---------------------------------------------------------------
-   Future of Knowledge Symposium — overrides on jekyll-theme-minimal.
+   Future of Knowledge Consortium — overrides on jekyll-theme-minimal.
    A grayscale palette: the theme's blue is replaced throughout, so
    the only colour on the page is the logo itself.
    --------------------------------------------------------------- */
@@ -138,6 +138,7 @@ section table th {
 }
 
 .site-meta,
+.site-venue,
 .site-place {
   color: $muted;
   font-size: 14px;
@@ -145,7 +146,8 @@ section table th {
 }
 
 /* The dates stand clear of the title above and the venue below. */
-.site-meta {
+.site-meta,
+.site-venue {
   margin: 1.2em 0;
 }
 
