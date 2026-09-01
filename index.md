@@ -13,7 +13,7 @@ The two-day Future of Knowledge Consortium aims to unpack these dynamics and map
 
 # Programme
 
-## 17 November - Representation
+## Knowledge Representation [November 17]
 
 Day one concerns the representation of knowledge in digital infrastructures, and the consequences of its absence for communities, languages, and research.
 
@@ -25,7 +25,7 @@ Day one concerns the representation of knowledge in digital infrastructures, and
 - Consequences for asylum procedure
 - Youth missing from higher education and research
 
-## 18 November - Access
+## Knowledge Access [November 18]
 
 Day two concerns access to scholarly knowledge and the terms on which it is accessed and measured.
 
