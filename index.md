@@ -21,20 +21,20 @@ Day one concerns the representation of knowledge in digital infrastructures, and
 - Measuring the gap between realities and their representations
 - Language as a first case of action research
 - Encoding digitally disadvantaged languages
-- Learning and sustaining at the margins
-- Consequences for asylum procedure
 - Youth missing from higher education and research
+- Learning and sustaining at the margins
 
 ## Knowledge Access [November 18]
 
-Day two concerns access to scholarly knowledge and the terms on which it is accessed and measured.
+Day two concerns access to scientific knowledge and the terms on which it is accessed and measured.
 
-- Open infrastructure for scholarly publishing
+- How open is our current scholarly communication ecosystem
+- The costs of accessing scientific literature
 - Article processing charges and the institutions that levy them
-- Wikipedia as public knowledge infrastructure
 - The science of science: concentration of funding, publishing power, and prestige
 - Open metrics for scholarly communication, and what they are able/unable to measure
+- Envisioning an open, multilingual, fair, and sustainable scholarly communication ecosystem
 
 # Hosts
 
-The Future of Knowledge Consortium is hosted at the Amsterdam School of Communication Research by the [Invisible Information Lab](https://invisible.info) with support from the University of Amsterdam's strategic theme on fair and resilient societies. Enquiries can be directed to [Saurabh Khanna](mailto:s.khanna@uva.nl).
+The Future of Knowledge Consortium is hosted at the Amsterdam School of Communication Research by the Invisible Information Lab with support from the University of Amsterdam's strategic theme on fair and resilient societies. Enquiries can be directed to [Saurabh Khanna](mailto:s.khanna@uva.nl).
