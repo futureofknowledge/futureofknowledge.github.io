@@ -93,12 +93,24 @@ section em {
   color: $muted;
 }
 
-/* Kept for tabular content: none is on the page at present. */
+/* The programme table. Four columns in a 620px measure, so nothing is
+   held on one line and the dates column is kept narrow. */
 section table {
   width: 100%;
   border-collapse: collapse;
   margin: 1.4em 0;
-  font-size: 15px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+section table th {
+  padding: 0 1em 0.55em 0;
+  border: 0;
+  border-bottom: 1px solid $rule;
+  color: $ink;
+  font-weight: 600;
+  text-align: left;
+  vertical-align: bottom;
 }
 
 section table td {
@@ -108,14 +120,19 @@ section table td {
   vertical-align: top;
 }
 
-section table td:first-child {
-  width: 34%;
-  color: $muted;
-  white-space: nowrap;
+section table th:last-child,
+section table td:last-child {
+  padding-right: 0;
 }
 
-section table th {
-  display: none;
+/* Fixed widths: the two short columns are given just enough room so the
+   descriptive ones take the remainder. */
+section table th:nth-child(1) { width: 19%; }
+section table th:nth-child(2) { width: 22%; }
+section table th:nth-child(3) { width: 32%; }
+
+section table td:first-child {
+  color: $muted;
 }
 
 /* Sidebar logo mark. width/height attributes carry the intrinsic ratio so
