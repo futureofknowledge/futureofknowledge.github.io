@@ -9,9 +9,9 @@ Today, the first ideal faces a **representation** challenge around whose knowled
 
 The second ideal faces an **access** challenge around whether recorded knowledge and scholarly communication reaches the communities it is meant to benefit. Beyond questions of open access, the current system also raises concerns about the highly inequitable distribution of resources and opportunities for knowledge production and dissemination. This imbalance is reinforced by the concentration of research funding, publishing power, and academic prestige in a small number of countries and institutions. All of this happens within a landscape of high article processing fees, proprietary metrics, and paywalled journals that finally shapes who gets to publish and who gets to access this knowledge.
 
-The two-day Future of Knowledge Consortium asks a broader question: *what should the future of human knowledge look like?* Over two days, participants will move from understanding the limitations of today's knowledge ecosystem to envisioning a better one, identifying pathways toward that future, and developing a concrete research and action agenda. Throughout the programme, we will consider two fundamental concerns: whose knowledge and experiences are represented, and who is able to access, understand, and build on this knowledge?
+The two-day Future of Knowledge Consortium asks a broader question: *what should the future of human knowledge look like?* Over two days, participants will move from outlining the limitations of today's knowledge ecosystem to envisioning a better one, identifying pathways toward that future, and developing a concrete research and action agenda. Throughout the programme, we will consider two fundamental concerns: whose knowledge and experiences are represented, and who is able to access, understand, and build on this knowledge?
 
-The meeting is designed as a collaborative working session rather than a sequence of presentations. Each part of the programme builds directly on the previous one: from diagnosing the present, to defining the future we want, to identifying pathways for change, and finally to deciding what can be done now. The discussions will provide the foundation for a joint white paper on the future of human knowledge.
+The meeting is designed as collaborative working sessions with a focus on active co-creation. Each part of the programme builds directly on the previous one: from diagnosing the present, to defining the future we want, to identifying pathways for change, and finally to deciding what can be done now. The discussions will provide the foundation for a joint white paper on the future of human knowledge.
 
 # Programme
 
@@ -28,22 +28,22 @@ The meeting is designed as a collaborative working session rather than a sequenc
 
 We begin by developing a shared picture of the present knowledge ecosystem: how knowledge is produced, represented, validated, organized, shared, accessed, and used. Rather than treating representation and access as separate problems, we will examine where exclusions arise across the knowledge lifecycle and how they relate to one another.
 
-The discussion will consider four distinct stages:
+The discussion will consider the following stages:
 
 - **Participation and production:** Who gets to create and contribute to knowledge? Which populations, communities, and perspectives are absent from research, education, documentation, and other forms of knowledge production?
 - **Representation and recording:** What knowledge becomes visible and recorded? What is lost because of language, geography, format, culture, or the privileging of particular forms of knowledge?
 - **Validation and organization:** What counts as legitimate knowledge, and how is knowledge classified, measured, indexed, ranked, and made discoverable?
-- **Access and use:** Who can find, obtain, understand, reuse, and benefit from knowledge once it has been produced?
+- **Access and usage:** Who can find, obtain, understand, reuse, and benefit from knowledge once it has been produced?
 
-Across these stages, we will ask: What is missing? Who is disadvantaged? What mechanisms create these gaps? How do we know?
+Across these stages, we will consider: What is missing? Who is disadvantaged? What mechanisms create these gaps? How do we know?
 
 **Outcome:** a shared map of the current knowledge ecosystem, its major gaps, and the mechanisms through which they arise.
 
 ### 13:30–17:00 | Where do we want to go?
 
-The second part of November 17 shifts from diagnosis to imagination. We ask what an ideal future for human knowledge would look like, and what principles such a system should embody.
+The second session on November 17 shifts from diagnosis to envisioning the future. We ask what an ideal future for human knowledge would look like, and what principles such a system should embody.
 
-The discussion will consider five dimensions:
+The discussion will consider the following dimensions:
 
 - **Participation:** People and communities have meaningful opportunities to create, shape, and contribute to knowledge.
 - **Representation:** Human experiences, languages, populations, and forms of knowledge are not systematically excluded from the collective knowledge record.
@@ -61,22 +61,22 @@ We will also examine tensions between these objectives. How should openness be b
 
 November 18 begins by working backwards from the future envisioned on November 17. We will identify the mechanisms through which today's knowledge ecosystem might be transformed.
 
-The discussion will focus on four complementary levers of change:
+The discussion will focus on the following complementary levers of change:
 
 - **Measurement and evidence:** How can we identify knowledge gaps, make invisible information observable, and measure progress without limiting ourselves to what is already easy to count?
 - **Technology and infrastructure:** What should change in archives, repositories, publishing systems, search and discovery, metadata, language technologies, and other infrastructures through which knowledge is recorded and circulated?
 - **Institutions and incentives:** How do research funding, publishing, universities, prestige systems, scholarly metrics, and other institutional arrangements shape representation and access? Which incentives would need to change?
 - **Participation and practice:** How should researchers, communities, educators, libraries, technologists, and other actors work differently? What forms of participation, collaboration, and co-creation are needed?
 
-For each pathway, we will ask: *What could change? Who would need to act? How would we know whether it worked? What risks or unintended consequences might arise?*
+For each pathway, we will ask: What could change? Who would need to act? How would we know whether it worked? What risks or unintended consequences might arise?
 
 **Outcome:** a structured portfolio of potential interventions and pathways toward a more representative and accessible knowledge ecosystem.
 
 ### 13:30–17:00 | What can we do now?
 
-The final part of the consortium translates the preceding discussions into a concrete research and action agenda. Rather than attempting to solve every problem at once, we will identify areas in which new knowledge, experimentation, collaboration, or institutional change could make a meaningful contribution.
+The final part of the consortium translates the preceding discussions into a concrete research and action agenda. Rather than attempting to solve every problem we identify, we will pinpoint areas in which new knowledge, experimentation, collaboration, or institutional change could start making a meaningful contribution.
 
-We will distinguish between five kinds of next steps:
+We will distinguish between the following kinds of next steps:
 
 - **Research questions:** What do we still need to understand about representation, access, participation, and the organization of knowledge?
 - **Measurement and data:** What indicators, datasets, mappings, or methods need to be developed?
