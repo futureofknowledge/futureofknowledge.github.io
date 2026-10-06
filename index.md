@@ -3,19 +3,19 @@ layout: default
 permalink: /
 ---
 
-Human scientific inquiry has historically been grounded in two hard-to-deny normative commitments: i) the systematic pursuit of knowledge spanning diverse human experiences across space and time, and ii) enabling universal access to this knowledge in public interest. However, current scientific practices have long fallen well short of both ideals, and the gaps remain substantial.
+Human scientific inquiry has historically been grounded in two widely accepted normative ideals: (i) the systematic pursuit of knowledge spanning diverse human experiences across space and time, and (ii) universal access to this knowledge in the public interest. Current scientific practice, however, has long fallen short of both ideals, and the gaps remain substantial.
 
-Today, the first ideal faces a **representation** challenge around whose knowledge gets encoded, retrieved, and amplified in digital spaces. Our digital record remains a heavily skewed representation of our lived realities, with an interplay of structural, algorithmic, and social forces rendering certain knowledge invisible. Language is a major driver of this exclusion, as under one percent of the world’s 7600+ living languages produce the near entirety of our web content, machine learning datasets, and the language models now being trained on them. These gaps are systematic, as languages from Sub-Saharan Africa, East and South Asia, and Oceania are far less represented than those from Europe and the Americas. 3300+ oral languages are further marginalized in corpora that privilege text over speech.
+Today, the first ideal faces a **representation** challenge concerning whose knowledge is encoded, retrieved, and amplified in digital spaces. Our digital record remains a heavily skewed representation of our lived realities, as an interplay of structural, algorithmic, and social forces renders certain knowledge invisible. Language is a major driver of this exclusion: fewer than one percent of the world's more than 7,600 living languages account for nearly all web content and machine learning datasets, and therefore shape the language models now trained on them. These gaps are systematic, as languages from Sub-Saharan Africa, East and South Asia, and Oceania are far less represented than those from Europe and the Americas. More than 3,300 oral languages are further marginalized by corpora that privilege text over speech.
 
-The second ideal faces an **access** challenge around whether recorded knowledge and scholarly communication reaches the communities it is meant to benefit. Beyond questions of open access, the current system also raises concerns about the highly inequitable distribution of resources and opportunities for knowledge production and dissemination. This imbalance is reinforced by the concentration of research funding, publishing power, and academic prestige in a small number of countries and institutions. All of this happens within a landscape of high article processing fees, proprietary metrics, and paywalled journals that finally shapes who gets to publish and who gets to access this knowledge.
+The second ideal faces an **access** challenge concerning whether recorded knowledge and scholarly communication reach the communities they are meant to benefit. Beyond questions of open access, the current system raises concerns about the highly inequitable distribution of resources and opportunities for producing and disseminating knowledge. This imbalance is reinforced by the concentration of research funding, publishing power, and academic prestige in a small number of countries and institutions. All of this unfolds within a landscape of high article processing charges, proprietary metrics, and paywalled journals that ultimately shapes who can publish and who can access knowledge.
 
-The Future of Knowledge Symposium asks a timely question: *what should the future of human knowledge look like?* Over two days, participants will take stock of today's knowledge ecosystem, agree on what a better one should look like, examine concrete approaches towards it, and set out a shared research and action agenda. Throughout the programme, we will consider two fundamental concerns: whose knowledge and experiences are represented, and who is able to access, understand, and build on this knowledge?
+The Future of Knowledge Symposium asks a timely question: *what should the future of human knowledge look like?* Over two days, participants will take stock of today's knowledge ecosystem, envision a better one, examine concrete approaches towards it, and set out a shared research and action agenda. Two concerns run throughout the programme: whose knowledge and experiences are represented, and who is able to access, understand, and build on that knowledge.
 
-The symposium is organised as a series of collaborative working sessions, each building on the one before. The first day focuses on problems and objectives: where are we now, and where do we want to go? The second day turns to approaches and next steps: how do we get there, and what can we do now? The discussions will lay the foundation for a joint white paper on the future of human knowledge.
+The symposium is organized as a series of collaborative working sessions, each building on the one before. The first day focuses on problems and objectives: where are we now, and where do we want to go? The second day turns to approaches and next steps: how do we get there, and what can we do now? Together, these discussions will lay the foundation for a joint white paper on the future of human knowledge.
 
 # Programme
 
-## November 17: Problems and objectives
+## 17 November: Problems and objectives
 
 The first day takes stock of the challenges to fair representation and access, and closes by turning them into a first draft of shared objectives.
 
@@ -31,14 +31,14 @@ The first day takes stock of the challenges to fair representation and access, a
 | 16:00–17:00 | **Objectives:** a first draft | All participants |
 {: .programme}
 
-- **Representation:** Whose knowledge gets recorded, retrieved, and amplified in digital spaces? We begin with how knowledge gaps can be identified and measured, then turn to language as one of the strongest drivers of exclusion, from written to oral traditions.
-- **Access:** Does recorded knowledge reach the communities it is meant to benefit? We take stock of where fair and open access stands today, and of the costs, metrics, and concentrations of prestige that shape who gets to publish and who gets to read.
-- **Generative AI:** Language models are trained on today's skewed knowledge record and increasingly mediate how people find and use it. We consider what this means for both representation and access.
-- **Objectives:** The day closes by turning these challenges into a first draft of shared objectives for a more representative and accessible knowledge ecosystem, together with the tensions they must confront, such as openness versus community control, or universal systems versus local specificity.
+- **Representation:** We begin by examining how knowledge gaps can be identified and measured, then turn to language as one of the strongest drivers of exclusion, across both written and oral traditions.
+- **Access:** We take stock of where fair and open access stands today, and of the costs, metrics, and concentrations of prestige that shape who can publish and who can read.
+- **Generative AI:** Large language models are trained on today's skewed knowledge record and increasingly mediate how people find and use it. We consider what this means for both representation and access.
+- **Objectives:** Drawing on the day's discussions, we draft a first set of shared objectives for a more representative and accessible knowledge ecosystem, and identify the tensions they must navigate, such as openness versus community control, or universal systems versus local specificity.
 
-## November 18: Approach and next steps
+## 18 November: Approaches and next steps
 
-The second day examines concrete approaches towards the objectives drafted on November 17, and closes by agreeing on the way ahead.
+The second day examines concrete approaches towards the objectives drafted on 17 November, and closes by agreeing on the way ahead.
 
 | Time | Session | Led by |
 | --- | --- | --- |
@@ -52,9 +52,9 @@ The second day examines concrete approaches towards the objectives drafted on No
 | From 18:00 | *Dinner* | |
 {: .programme}
 
-- **Representation:** Two concrete efforts to surface knowledge that is currently missing from the record: the Invisible Information Framework and the Library of Lost Ideas.
-- **Access:** How could incentives for researchers, publishers, and institutions reward fair and open dissemination? And how can better metrics be put into practice without limiting ourselves to what is already easy to count?
-- **Next steps:** After time for writing and small-group meetings, we walk through the outline of the joint white paper and agree on priorities, open questions, and concrete next steps.
+- **Representation:** We examine two concrete efforts to surface knowledge that is currently missing from the digital record: the Invisible Information Framework and the Library of Lost Ideas.
+- **Access:** We consider how incentives for researchers, publishers, and institutions could reward fair and open dissemination, and how better metrics could be put into practice without being limited to what is already easy to count.
+- **Final reflections:** After an open slot for writing and meetings, we walk through the outline of the joint white paper and agree on priorities, open questions, and concrete next steps.
 
 # Participants
 
@@ -73,10 +73,10 @@ The second day examines concrete approaches towards the objectives drafted on No
 | [Charles Rahal](https://crahal.com/) | University of Oxford |
 | [Safdar Rahman](https://www.thecircleindia.org/cohort-list/safdar-rahman) | Lighthouse Foundation |
 | [Miriam Redi](https://meta.wikimedia.org/wiki/User:Miriam_%28WMF%29) | Wikimedia Foundation |
-| [Wende Tufa](https://www.researchgate.net/profile/Wende-Tufa) | Amsterdam School of Communication Research |
+| [Wende Tufa](https://wendet.github.io/) | Amsterdam School of Communication Research |
 | [John Willinsky](https://ed.stanford.edu/faculty/willinsk) | Stanford University and Public Knowledge Project |
 {: .participants}
 
 # Hosts
 
-The Future of Knowledge Symposium is hosted at the Amsterdam School of Communication Research by the Invisible Information Lab with support from the University of Amsterdam's strategic theme on fair and resilient societies. Enquiries can be directed to [Saurabh Khanna](mailto:s.khanna@uva.nl).
+The Future of Knowledge Symposium is hosted at the Amsterdam School of Communication Research by the Invisible Information Lab, with support from the University of Amsterdam's strategic theme Fair and Resilient Societies. Enquiries can be directed to [Saurabh Khanna](mailto:s.khanna@uva.nl).
