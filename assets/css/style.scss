@@ -93,8 +93,7 @@ section em {
   color: $muted;
 }
 
-/* The programme table. Four columns in a 620px measure, so nothing is
-   held on one line and the dates column is kept narrow. */
+/* Tables: one programme per day, and the participant list. */
 section table {
   width: 100%;
   border-collapse: collapse;
@@ -125,15 +124,19 @@ section table td:last-child {
   padding-right: 0;
 }
 
-/* Fixed widths: the two short columns are given just enough room so the
-   descriptive ones take the remainder. */
-section table th:nth-child(1) { width: 19%; }
-section table th:nth-child(2) { width: 22%; }
-section table th:nth-child(3) { width: 32%; }
+/* Programme: times are kept on one line and muted; the session takes
+   the most room, leads the remainder. Both day tables share the widths
+   so their columns line up down the page. */
+section table.programme th:nth-child(1) { width: 18%; }
+section table.programme th:nth-child(2) { width: 46%; }
 
-section table td:first-child {
+section table.programme td:first-child {
   color: $muted;
+  white-space: nowrap;
 }
+
+/* Participants: name and affiliation. */
+section table.participants th:nth-child(1) { width: 36%; }
 
 /* Sidebar logo mark. width/height attributes carry the intrinsic ratio so
    the browser reserves space before it loads; CSS sets the display size. */

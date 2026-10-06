@@ -9,84 +9,73 @@ Today, the first ideal faces a **representation** challenge around whose knowled
 
 The second ideal faces an **access** challenge around whether recorded knowledge and scholarly communication reaches the communities it is meant to benefit. Beyond questions of open access, the current system also raises concerns about the highly inequitable distribution of resources and opportunities for knowledge production and dissemination. This imbalance is reinforced by the concentration of research funding, publishing power, and academic prestige in a small number of countries and institutions. All of this happens within a landscape of high article processing fees, proprietary metrics, and paywalled journals that finally shapes who gets to publish and who gets to access this knowledge.
 
-The Future of Knowledge Symposium asks a timely question: *what should the future of human knowledge look like?* Over two days, participants will move from outlining the limitations of today's knowledge ecosystem to envisioning a better one, identifying pathways towards that future, and developing a concrete research and action agenda. Throughout the programme, we will consider two fundamental concerns: whose knowledge and experiences are represented, and who is able to access, understand, and build on this knowledge?
+The Future of Knowledge Symposium asks a timely question: *what should the future of human knowledge look like?* Over two days, participants will take stock of today's knowledge ecosystem, agree on what a better one should look like, examine concrete approaches towards it, and set out a shared research and action agenda. Throughout the programme, we will consider two fundamental concerns: whose knowledge and experiences are represented, and who is able to access, understand, and build on this knowledge?
 
-The symposium is designed as collaborative working sessions with a focus on active co-creation. Each part of the programme builds directly on the previous one: from diagnosing the present, to defining the future we collectively envision, to identifying pathways for change, and finally to deciding what can be done at this moment in time. The discussions will also provide the foundation for a joint white paper on the future of human knowledge.
+The symposium is organised as a series of collaborative working sessions, each building on the one before. The first day focuses on problems and objectives: where are we now, and where do we want to go? The second day turns to approaches and next steps: how do we get there, and what can we do now? The discussions will lay the foundation for a joint white paper on the future of human knowledge.
 
 # Programme
 
-| Date and time | Theme | Focus | Intended outcome |
-| --- | --- | --- | --- |
-| **November 17, 09:00–12:30** | **Where are we now?** | Examine how knowledge is currently produced, represented, validated, shared, and used, and identify where systematic gaps in representation and access arise | A shared map of the present knowledge ecosystem and its major gaps |
-| **November 17, 13:30–17:00** | **Where do we want to go?** | Envision the principles of a more representative, participatory, reliable, accessible, and sustainable future for human knowledge | A shared vision and set of principles for the future of knowledge |
-| **November 18, 09:00–12:30** | **How do we get there?** | Explore pathways for change through measurement, technology and infrastructure, institutions and incentives, and new forms of participation and practice | A portfolio of potential interventions and pathways toward change |
-| **November 18, 13:30–17:00** | **What can we do now?** | Translate the discussion into priorities for research, measurement, experimentation, institutional change, and collaboration. | A concrete research and action agenda, including next steps for a joint white paper |
+## November 17: Problems and objectives
 
-## November 17
+The first day takes stock of the challenges to fair representation and access, and closes by turning them into a first draft of shared objectives.
 
-### 09:00–12:30 | Where are we now?
+| Time | Session | Led by |
+| --- | --- | --- |
+| 09:00–10:00 | **Introduction:** why are we here? | Saurabh Khanna |
+| 10:00–11:00 | **Representation:** identifying knowledge gaps | Miriam Redi |
+| 11:00–12:00 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
+| 12:00–14:00 | *Lunch* | |
+| 14:00–15:00 | **Access:** taking stock of fair and open access | John Willinsky, Stefano Giani, Pascal Braak |
+| 15:00–15:30 | **Generative AI:** recent developments | Charles Rahal, Jochen Peter, Toni van der Meer |
+| 15:30–16:00 | *Coffee break* | |
+| 16:00–17:00 | **Objectives:** a first draft | All participants |
+{: .programme}
 
-We begin by developing a shared picture of the present knowledge ecosystem: how knowledge is produced, represented, validated, organized, shared, accessed, and used. Rather than treating representation and access as separate problems, we will examine where exclusions arise across the knowledge lifecycle and how they relate to one another.
+- **Representation:** Whose knowledge gets recorded, retrieved, and amplified in digital spaces? We begin with how knowledge gaps can be identified and measured, then turn to language as one of the strongest drivers of exclusion, from written to oral traditions.
+- **Access:** Does recorded knowledge reach the communities it is meant to benefit? We take stock of where fair and open access stands today, and of the costs, metrics, and concentrations of prestige that shape who gets to publish and who gets to read.
+- **Generative AI:** Language models are trained on today's skewed knowledge record and increasingly mediate how people find and use it. We consider what this means for both representation and access.
+- **Objectives:** The day closes by turning these challenges into a first draft of shared objectives for a more representative and accessible knowledge ecosystem, together with the tensions they must confront, such as openness versus community control, or universal systems versus local specificity.
 
-The discussion will consider the following stages:
+## November 18: Approach and next steps
 
-- **Participation and production:** Who gets to create and contribute to knowledge? Which populations, communities, and perspectives are absent from research, education, documentation, and other forms of knowledge production?
-- **Representation and recording:** What knowledge becomes visible and recorded? What is lost because of language, geography, format, culture, or the privileging of particular forms of knowledge?
-- **Validation and organization:** What counts as legitimate knowledge, and how is knowledge classified, measured, indexed, ranked, and made discoverable?
-- **Access and usage:** Who can find, obtain, understand, reuse, and benefit from knowledge once it has been produced?
+The second day examines concrete approaches towards the objectives drafted on November 17, and closes by agreeing on the way ahead.
 
-Across these stages, we will consider questions around what is missing, who is disadvantaged, and what mechanisms create these gaps. We will also discuss how we can know and measure these gaps, and what evidence exists to support our understanding.
+| Time | Session | Led by |
+| --- | --- | --- |
+| 09:00–10:00 | **Representation:** the Invisible Information Framework | Saurabh Khanna, Wende Tufa, Olga Eisele |
+| 10:00–10:30 | **Representation:** the Library of Lost Ideas | Safdar Rahman, Arindam Bose |
+| 10:30–11:00 | **Access:** setting up better incentives | John Willinsky, Miriam Redi, Stefano Giani |
+| 11:00–12:00 | **Access:** operationalizing better metrics | Ben Domingue, Charles Rahal |
+| 12:00–14:00 | *Lunch* | |
+| 14:00–15:30 | **Open slot:** writing and meetings | All participants |
+| 15:30–17:00 | **Final reflections:** the white paper outline and the way ahead | All participants |
+| From 18:00 | *Dinner* | |
+{: .programme}
 
-**Outcome:** a shared map of the current knowledge ecosystem, its major gaps, and the mechanisms through which they arise.
+- **Representation:** Two concrete efforts to surface knowledge that is currently missing from the record: the Invisible Information Framework and the Library of Lost Ideas.
+- **Access:** How could incentives for researchers, publishers, and institutions reward fair and open dissemination? And how can better metrics be put into practice without limiting ourselves to what is already easy to count?
+- **Next steps:** After time for writing and small-group meetings, we walk through the outline of the joint white paper and agree on priorities, open questions, and concrete next steps.
 
-### 13:30–17:00 | Where do we want to go?
+# Participants
 
-The second session on November 17 shifts from diagnosis to envisioning the future. We ask what an ideal future for human knowledge would look like, and what principles such a system should embody.
-
-The discussion will (atleast) consider the following dimensions:
-
-- **Participation:** People and communities have meaningful opportunities to create, shape, and contribute to knowledge.
-- **Representation:** Human experiences, languages, populations, and forms of knowledge are not systematically excluded from the collective knowledge record.
-- **Reliability and trust:** Knowledge systems maintain standards for evidence, provenance, transparency, uncertainty, scrutiny, and correction.
-- **Access and usability:** Knowledge can be discovered, obtained, understood, translated, reused, and applied by the communities it is intended to serve.
-- **Stewardship and sustainability:** Knowledge is preserved and governed responsibly, with institutions and infrastructures capable of supporting it over time.
-
-We will also examine tensions between these objectives. How should openness be balanced with community control? How do we reconcile universal systems with local specificity? What trade-offs arise between standardization and plurality, or between scale and depth?
-
-**Outcome:** a shared set of principles for an ideal future knowledge ecosystem, together with the central tensions and open questions that such a vision must confront.
-
-## November 18
-
-### 09:00–12:30 | How do we get there?
-
-November 18 begins by working backwards from the future envisioned on November 17. We will identify the mechanisms through which today's knowledge ecosystem might be transformed.
-
-The discussion will focus on the following complementary levers of change:
-
-- **Measurement and evidence:** How can we identify knowledge gaps, make invisible information visible, and measure progress without limiting ourselves to what is already easy to count?
-- **Technology and infrastructure:** What should change in archives, repositories, publishing systems, search and discovery, metadata, language technologies, and other infrastructures through which knowledge is recorded and circulated?
-- **Institutions and incentives:** How do research funding, publishing, universities, prestige systems, scholarly metrics, and other institutional arrangements shape representation and access? Which incentives would need to change?
-- **Participation and practice:** How should researchers, communities, educators, libraries, technologists, and other actors work differently? What forms of participation, collaboration, and co-creation are needed?
-
-For each pathway, we will ask what could change, who would need to act, how we would know whether it worked, and what risks or unintended consequences might arise.
-
-**Outcome:** a structured portfolio of potential interventions and pathways toward a more representative and accessible knowledge ecosystem.
-
-### 13:30–17:00 | What can we do now?
-
-The final part of the symposium translates the discussions into a concrete research and action agenda. Rather than attempting to solve every problem we identify, we will pinpoint areas in which new knowledge, experimentation, collaboration, or institutional change could start making a meaningful contribution.
-
-We will distinguish between the following kinds of next steps:
-
-- **Research questions:** What do we still need to understand about representation, access, participation, and the organization of knowledge?
-- **Measurement and data:** What indicators, datasets, mappings, or methods need to be developed?
-- **Experiments and pilots:** What interventions could be tested in practice?
-- **Institutional and infrastructure change:** What systems, incentives, or practices could realistically be redesigned?
-- **Collective outputs and collaboration:** What can this group develop together, including a joint white paper, shared research projects, resources, or future collaborations?
-
-The symposium will conclude by identifying a list of key priorities, open questions, and concrete next steps.
-
-**Outcome:** a shared research and action agenda, a set of priorities for future collaboration, and the foundations of a joint white paper on the future of human knowledge.
+| Name | Affiliation |
+| --- | --- |
+| [Chei Billedo](https://www.uva.nl/en/profile/b/i/c.j.billedo/c.j.billedo.html) | Amsterdam School of Communication Research |
+| [Arindam Bose](https://tiss.ac.in/view/9/employee/arindam-bose/) | Tata Institute of Social Sciences |
+| [Pascal Braak](https://www.uva.nl/en/profile/b/r/p.braak/p.braak.html) | University of Amsterdam Library |
+| [Ben Domingue](https://ed.stanford.edu/faculty/bdomingu) | Stanford University |
+| [Olga Eisele](https://www.uva.nl/en/profile/e/i/o.e.eisele/o.e.eisele.html) | Amsterdam School of Communication Research |
+| [Stefano Giani](https://www.uva.nl/en/profile/g/i/s.giani/s.giani.html) | University of Amsterdam Library |
+| [Saurabh Khanna](https://saurabh-khanna.github.io/) | Amsterdam School of Communication Research |
+| [Toni van der Meer](https://www.uva.nl/en/profile/m/e/g.l.a.vandermeer/g.l.a.vandermeer.html) | Amsterdam School of Communication Research |
+| [Sonali Nag](https://www.education.ox.ac.uk/person/sonali-nag/) | University of Oxford |
+| [Jochen Peter](https://www.uva.nl/en/profile/p/e/j.peter/j.peter.html) | Amsterdam School of Communication Research |
+| [Charles Rahal](https://crahal.com/) | University of Oxford |
+| [Safdar Rahman](https://www.thecircleindia.org/cohort-list/safdar-rahman) | Lighthouse Foundation |
+| [Miriam Redi](https://meta.wikimedia.org/wiki/User:Miriam_%28WMF%29) | Wikimedia Foundation |
+| [Wende Tufa](https://www.researchgate.net/profile/Wende-Tufa) | Amsterdam School of Communication Research |
+| [John Willinsky](https://ed.stanford.edu/faculty/willinsk) | Stanford University and Public Knowledge Project |
+{: .participants}
 
 # Hosts
 

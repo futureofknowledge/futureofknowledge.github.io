@@ -12,7 +12,7 @@ here, so this repo holds only what is specific to the symposium.
 
 | File | Contents |
 |---|---|
-| `index.md` | The entire page — overview, schedule, public session, hosts |
+| `index.md` | The entire page — overview, programme, participants, hosts |
 | `_config.yml` | Title, dates, site metadata |
 | `_layouts/default.html` | Page shell — sidebar, footer |
 | `assets/css/style.scss` | Styling on top of the theme |
