@@ -9,9 +9,9 @@ Today, the first ideal faces a **representation** challenge around whose knowled
 
 The second ideal faces an **access** challenge around whether recorded knowledge and scholarly communication reaches the communities it is meant to benefit. Beyond questions of open access, the current system also raises concerns about the highly inequitable distribution of resources and opportunities for knowledge production and dissemination. This imbalance is reinforced by the concentration of research funding, publishing power, and academic prestige in a small number of countries and institutions. All of this happens within a landscape of high article processing fees, proprietary metrics, and paywalled journals that finally shapes who gets to publish and who gets to access this knowledge.
 
-The Future of Knowledge Consortium asks a timely question: *what should the future of human knowledge look like?* Over two days, participants will move from outlining the limitations of today's knowledge ecosystem to envisioning a better one, identifying pathways towards that future, and developing a concrete research and action agenda. Throughout the programme, we will consider two fundamental concerns: whose knowledge and experiences are represented, and who is able to access, understand, and build on this knowledge?
+The Future of Knowledge Symposium asks a timely question: *what should the future of human knowledge look like?* Over two days, participants will move from outlining the limitations of today's knowledge ecosystem to envisioning a better one, identifying pathways towards that future, and developing a concrete research and action agenda. Throughout the programme, we will consider two fundamental concerns: whose knowledge and experiences are represented, and who is able to access, understand, and build on this knowledge?
 
-The consortium meeting is designed as collaborative working sessions with a focus on active co-creation. Each part of the programme builds directly on the previous one: from diagnosing the present, to defining the future we collectively envision, to identifying pathways for change, and finally to deciding what can be done at this moment in time. The discussions will also provide the foundation for a joint white paper on the future of human knowledge.
+The symposium is designed as collaborative working sessions with a focus on active co-creation. Each part of the programme builds directly on the previous one: from diagnosing the present, to defining the future we collectively envision, to identifying pathways for change, and finally to deciding what can be done at this moment in time. The discussions will also provide the foundation for a joint white paper on the future of human knowledge.
 
 # Programme
 
@@ -74,7 +74,7 @@ For each pathway, we will ask what could change, who would need to act, how we w
 
 ### 13:30–17:00 | What can we do now?
 
-The final part of the consortium translates the discussions into a concrete research and action agenda. Rather than attempting to solve every problem we identify, we will pinpoint areas in which new knowledge, experimentation, collaboration, or institutional change could start making a meaningful contribution.
+The final part of the symposium translates the discussions into a concrete research and action agenda. Rather than attempting to solve every problem we identify, we will pinpoint areas in which new knowledge, experimentation, collaboration, or institutional change could start making a meaningful contribution.
 
 We will distinguish between the following kinds of next steps:
 
@@ -84,10 +84,10 @@ We will distinguish between the following kinds of next steps:
 - **Institutional and infrastructure change:** What systems, incentives, or practices could realistically be redesigned?
 - **Collective outputs and collaboration:** What can this group develop together, including a joint white paper, shared research projects, resources, or future collaborations?
 
-The consortium will conclude by identifying a list of key priorities, open questions, and concrete next steps.
+The symposium will conclude by identifying a list of key priorities, open questions, and concrete next steps.
 
 **Outcome:** a shared research and action agenda, a set of priorities for future collaboration, and the foundations of a joint white paper on the future of human knowledge.
 
 # Hosts
 
-The Future of Knowledge Consortium is hosted at the Amsterdam School of Communication Research by the Invisible Information Lab with support from the University of Amsterdam's strategic theme on fair and resilient societies. Enquiries can be directed to [Saurabh Khanna](mailto:s.khanna@uva.nl).
+The Future of Knowledge Symposium is hosted at the Amsterdam School of Communication Research by the Invisible Information Lab with support from the University of Amsterdam's strategic theme on fair and resilient societies. Enquiries can be directed to [Saurabh Khanna](mailto:s.khanna@uva.nl).
