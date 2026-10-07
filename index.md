@@ -25,7 +25,7 @@ The first day takes stock of the challenges to fair representation and access, a
 | 10:00–11:00 | **Representation:** identifying knowledge gaps | Miriam Redi |
 | 11:00–12:00 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
 | 12:00–14:00 | *Lunch* | |
-| 14:00–15:00 | **Access:** taking stock of fair and open access | John Willinsky, Stefano Giani, Pascal Braak |
+| 14:00–15:00 | **Access:** taking stock of fair and open access | John Willinsky, Pascal Braak |
 | 15:00–15:30 | **Generative AI:** recent developments | Charles Rahal, Jochen Peter, Toni van der Meer |
 | 15:30–16:00 | *Coffee break* | |
 | 16:00–17:00 | **Objectives:** a first draft | All participants |
