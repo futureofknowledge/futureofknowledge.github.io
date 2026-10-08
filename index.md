@@ -25,9 +25,8 @@ The first day takes stock of the challenges to fair representation and access, a
 | 10:00–11:00 | **Representation:** identifying knowledge gaps | Miriam Redi |
 | 11:00–12:00 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
 | 12:00–14:00 | *Lunch* | |
-| 14:00–15:00 | **Access:** taking stock of fair and open access | John Willinsky, Pascal Braak |
-| 15:00–15:30 | **Generative AI:** recent developments | Charles Rahal, Jochen Peter, Toni van der Meer |
-| 15:30–16:00 | *Coffee break* | |
+| 14:00–15:00 | **Access:** current state of open access | John Willinsky, Pascal Braak |
+| 15:00–16:00 | **Generative AI:** how it affects both representation and access | Charles Rahal, Jochen Peter, Toni van der Meer |
 | 16:00–17:00 | **Objectives:** a first draft | All participants |
 {: .programme}
 
@@ -42,18 +41,17 @@ The second day examines concrete approaches towards the objectives drafted on 17
 
 | Time | Session | Led by |
 | --- | --- | --- |
-| 09:00–10:00 | **Representation:** the Invisible Information Framework | Saurabh Khanna, Wende Tufa, Olga Eisele |
-| 10:00–10:30 | **Representation:** the Library of Lost Ideas | Safdar Rahman, Arindam Bose |
-| 10:30–11:00 | **Access:** setting up better incentives | John Willinsky, Miriam Redi, Stefano Giani |
+| 09:00–10:00 | **Representation:** recap and the Invisible Information Framework | Saurabh Khanna, Wende Tufa, Safdar Rahman, Arindam Bose |
+| 10:00–11:00 | **Access:** setting up better incentives | John Willinsky, Miriam Redi, Stefano Giani |
 | 11:00–12:00 | **Access:** operationalizing better metrics | Ben Domingue, Charles Rahal |
 | 12:00–14:00 | *Lunch* | |
-| 14:00–15:30 | **Open slot:** writing and meetings | All participants |
+| 14:00–15:30 | **Open slot:** writing and/or meetings | All participants |
 | 15:30–17:00 | **Final reflections:** the white paper outline and the way ahead | All participants |
 | From 18:00 | *Dinner* | |
 {: .programme}
 
-- **Representation:** We examine two concrete efforts to surface knowledge that is currently missing from the digital record: the Invisible Information Framework and the Library of Lost Ideas.
-- **Access:** We consider how incentives for researchers, publishers, and institutions could reward fair and open dissemination, and how better metrics could be put into practice without being limited to what is already easy to count.
+- **Representation:** We open with a recap of the first day, then examine concrete efforts to surface knowledge that is currently missing from the digital record, including the Invisible Information Framework and the Library of Lost Ideas.
+- **Access:** We consider how incentives for researchers and institutions could reward fair and open dissemination, and how better metrics could be put into practice without being limited to what is already easy to count.
 - **Final reflections:** After an open slot for writing and meetings, we walk through the outline of the joint white paper and agree on priorities, open questions, and concrete next steps.
 
 # Participants
