@@ -7,8 +7,8 @@ lang: en-GB
 theme: jekyll-theme-minimal
 
 event_dates: 17–18 November 2026
-event_venue: University of Amsterdam
-event_place: Venue details to be announced
+event_venue: Amsterdam School of Communication Research
+event_place: Nieuwe Achtergracht 166, 1018 WV Amsterdam
 
 plugins:
   - jekyll-seo-tag
