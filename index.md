@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-Human scientific inquiry has historically been grounded in two widely accepted normative ideals: (i) the systematic pursuit of knowledge spanning diverse human experiences across space and time, and (ii) universal access to this knowledge in the public interest. Current scientific practice, however, has long fallen short of both ideals, and the gaps remain substantial.
+Human scientific inquiry has historically been grounded in two hard-to-deny normative ideals: (i) the systematic pursuit of knowledge spanning diverse human experiences across space and time, and (ii) universal access to this knowledge in the public interest. Current scientific practice, however, has long fallen short of both ideals, and the gaps remain substantial.
 
 Today, the first ideal faces a **representation** challenge concerning whose knowledge is encoded, retrieved, and amplified in digital spaces. Our digital record remains a heavily skewed representation of our lived realities, as an interplay of structural, algorithmic, and social forces renders certain knowledge invisible. Language is a major driver of this exclusion: fewer than one percent of the world's more than 7,600 living languages account for nearly all web content and machine learning datasets, and therefore shape the language models now trained on them. These gaps are systematic, as languages from Sub-Saharan Africa, East and South Asia, and Oceania are far less represented than those from Europe and the Americas. More than 3,300 oral languages are further marginalized by corpora that privilege text over speech.
 
