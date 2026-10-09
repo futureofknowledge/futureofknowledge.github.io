@@ -19,6 +19,8 @@ The symposium is organized as a series of collaborative working sessions, each b
 
 The first day takes stock of the challenges to fair representation and access, and closes by turning them into a first draft of shared objectives.
 
+Location: Room C2.04
+
 | Time | Session | Led by |
 | --- | --- | --- |
 | 09:00–10:00 | **Introduction:** why are we here? | Saurabh Khanna |
@@ -32,18 +34,20 @@ The first day takes stock of the challenges to fair representation and access, a
 
 - **Representation:** We begin by examining how knowledge gaps can be identified and measured, then turn to language as one of the strongest drivers of exclusion, across both written and oral traditions.
 - **Access:** We take stock of where fair and open access stands today, and of the costs, metrics, and concentrations of prestige that shape who can publish and who can read.
-- **Generative AI:** Large language models are trained on today's skewed knowledge record and increasingly mediate how people find and use it. We consider what this means for both representation and access.
+- **Generative AI:** Large language models are trained on today's skewed knowledge record and increasingly mediate how people find and use it. We discuss what this means for both representation and access.
 - **Objectives:** Drawing on the day's discussions, we draft a first set of shared objectives for a more representative and accessible knowledge ecosystem, and identify the tensions they must navigate, such as openness versus community control, or universal systems versus local specificity.
 
 ## 18 November: Approaches and next steps
 
 The second day examines concrete approaches towards the objectives drafted on 17 November, and closes by agreeing on the way ahead.
 
+Location: Room C3.05
+
 | Time | Session | Led by |
 | --- | --- | --- |
 | 09:00–10:00 | **Representation:** recap and the Invisible Information Framework | Saurabh Khanna, Wende Tufa, Safdar Rahman, Arindam Bose |
-| 10:00–11:00 | **Access:** setting up better incentives | John Willinsky, Miriam Redi, Stefano Giani |
-| 11:00–12:00 | **Access:** operationalizing better metrics | Ben Domingue, Charles Rahal |
+| 10:00–11:00 | **Access:** envisioning better incentives for knowledge sharing | John Willinsky, Miriam Redi, Stefano Giani |
+| 11:00–12:00 | **Access:** operationalizing better metrics for the individual and the collective | Ben Domingue, Charles Rahal |
 | 12:00–14:00 | *Lunch* | |
 | 14:00–15:30 | **Open slot:** writing and/or meetings | All participants |
 | 15:30–17:00 | **Final reflections:** the white paper outline and the way ahead | All participants |
@@ -51,8 +55,8 @@ The second day examines concrete approaches towards the objectives drafted on 17
 {: .programme}
 
 - **Representation:** We open with a recap of the first day, then examine concrete efforts to surface knowledge that is currently missing from the digital record, including the Invisible Information Framework and the Library of Lost Ideas.
-- **Access:** We consider how incentives for researchers and institutions could reward fair and open dissemination, and how better metrics could be put into practice without being limited to what is already easy to count.
-- **Final reflections:** After an open slot for writing and meetings, we walk through the outline of the joint white paper and agree on priorities, open questions, and concrete next steps.
+- **Access:** We consider how incentives for researchers and institutions could reward fair and open dissemination, and how better metrics could be put into practice that recognize both individual and collective contributions to knowledge.
+- **Final reflections:** After an open slot for writing and/or meetings, we walk through our outline of the joint white paper and agree on priorities, open questions, and concrete next steps.
 
 # Participants
 
@@ -71,6 +75,7 @@ The second day examines concrete approaches towards the objectives drafted on 17
 | [Charles Rahal](https://crahal.com/) | University of Oxford |
 | [Safdar Rahman](https://www.thecircleindia.org/cohort-list/safdar-rahman) | Lighthouse Foundation |
 | [Miriam Redi](https://meta.wikimedia.org/wiki/User:Miriam_%28WMF%29) | Wikimedia Foundation |
+| [Pedro Ortiz Suarez](https://commoncrawl.org/team/pedro-ortiz-suarez) | Common Crawl Foundation |
 | [Wende Tufa](https://wendet.github.io/) | Amsterdam School of Communication Research |
 | [John Willinsky](https://ed.stanford.edu/faculty/willinsk) | Stanford University and Public Knowledge Project |
 {: .participants}
