@@ -65,11 +65,13 @@ Location: Room C3.05
 | [Chei Billedo](https://www.uva.nl/en/profile/b/i/c.j.billedo/c.j.billedo.html) | Amsterdam School of Communication Research |
 | [Arindam Bose](https://tiss.ac.in/view/9/employee/arindam-bose/) | Tata Institute of Social Sciences |
 | [Pascal Braak](https://www.uva.nl/en/profile/b/r/p.braak/p.braak.html) | University of Amsterdam Library |
+| [Peter Claus](https://www.history.ox.ac.uk/people/dr-peter-claus) | University of Oxford |
 | [Ben Domingue](https://ed.stanford.edu/faculty/bdomingu) | Stanford University |
 | [Olga Eisele](https://www.uva.nl/en/profile/e/i/o.e.eisele/o.e.eisele.html) | Amsterdam School of Communication Research |
 | [Stefano Giani](https://www.uva.nl/en/profile/g/i/s.giani/s.giani.html) | University of Amsterdam Library |
 | [Saurabh Khanna](https://saurabh-khanna.github.io/) | Amsterdam School of Communication Research |
 | [Toni van der Meer](https://www.uva.nl/en/profile/m/e/g.l.a.vandermeer/g.l.a.vandermeer.html) | Amsterdam School of Communication Research |
+| [Thomas Mullaney](https://silicon.stanford.edu/team/) | Stanford University |
 | [Sonali Nag](https://www.education.ox.ac.uk/person/sonali-nag/) | University of Oxford |
 | [Jochen Peter](https://www.uva.nl/en/profile/p/e/j.peter/j.peter.html) | Amsterdam School of Communication Research |
 | [Charles Rahal](https://crahal.com/) | University of Oxford |
