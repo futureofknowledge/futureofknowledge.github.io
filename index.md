@@ -26,7 +26,7 @@ The first day takes stock of the challenges to fair representation and access, a
 | 11:00–12:00 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
 | 12:00–14:00 | *Lunch* | |
 | 14:00–15:00 | **Access:** current state of open access | John Willinsky, Pascal Braak |
-| 15:00–16:00 | **Generative AI:** how it affects both representation and access | Charles Rahal, Jochen Peter, Toni van der Meer |
+| 15:00–16:00 | **Generative AI:** how it affects knowledge representation and access | Charles Rahal, Jochen Peter, Toni van der Meer |
 | 16:00–17:00 | **Objectives:** a first draft | All participants |
 {: .programme}
 
@@ -77,4 +77,4 @@ The second day examines concrete approaches towards the objectives drafted on 17
 
 # Hosts
 
-The Future of Knowledge Symposium is hosted at the Amsterdam School of Communication Research by the Invisible Information Lab, with support from the University of Amsterdam's strategic theme Fair and Resilient Societies. Enquiries can be directed to [Saurabh Khanna](mailto:s.khanna@uva.nl).
+The Future of Knowledge Symposium is hosted at the Amsterdam School of Communication Research by the Invisible Information Lab, with support from the University of Amsterdam's strategic theme on Fair and Resilient Societies. Enquiries can be directed to [Saurabh Khanna](mailto:s.khanna@uva.nl).
