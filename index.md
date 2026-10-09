@@ -28,7 +28,7 @@ Location: Room C2.04
 | 11:00–12:00 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
 | 12:00–14:00 | *Lunch* | |
 | 14:00–15:00 | **Access:** current state of open access | John Willinsky, Pascal Braak |
-| 15:00–16:00 | **Generative AI:** how it affects knowledge representation and access | Charles Rahal, Jochen Peter, Toni van der Meer |
+| 15:00–16:00 | **Generative AI:** how it affects knowledge representation and access | Charles Rahal |
 | 16:00–17:00 | **Objectives:** a first draft | All participants |
 {: .programme}
 
@@ -70,10 +70,8 @@ Location: Room C3.05
 | [Olga Eisele](https://www.uva.nl/en/profile/e/i/o.e.eisele/o.e.eisele.html) | Amsterdam School of Communication Research |
 | [Stefano Giani](https://www.uva.nl/en/profile/g/i/s.giani/s.giani.html) | University of Amsterdam Library |
 | [Saurabh Khanna](https://saurabh-khanna.github.io/) | Amsterdam School of Communication Research |
-| [Toni van der Meer](https://www.uva.nl/en/profile/m/e/g.l.a.vandermeer/g.l.a.vandermeer.html) | Amsterdam School of Communication Research |
 | [Thomas Mullaney](https://silicon.stanford.edu/team/) | Stanford University |
 | [Sonali Nag](https://www.education.ox.ac.uk/person/sonali-nag/) | University of Oxford |
-| [Jochen Peter](https://www.uva.nl/en/profile/p/e/j.peter/j.peter.html) | Amsterdam School of Communication Research |
 | [Charles Rahal](https://crahal.com/) | University of Oxford |
 | [Safdar Rahman](https://www.thecircleindia.org/cohort-list/safdar-rahman) | Lighthouse Foundation |
 | [Miriam Redi](https://meta.wikimedia.org/wiki/User:Miriam_%28WMF%29) | Wikimedia Foundation |
