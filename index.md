@@ -51,7 +51,7 @@ Location: Room C3.05
 | 12:00–14:00 | *Lunch* | |
 | 14:00–15:30 | **Open slot:** writing and/or meetings | All participants |
 | 15:30–17:00 | **Final reflections:** the white paper outline and the way ahead | All participants |
-| From 18:00 | *Dinner* | |
+| 18:00 onwards | *Dinner* | |
 {: .programme}
 
 - **Representation:** We open with a recap of the first day, then examine concrete efforts to surface knowledge that is currently missing from the digital record, including the Invisible Information Framework and the Library of Lost Ideas.
