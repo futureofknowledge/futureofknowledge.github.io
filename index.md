@@ -50,7 +50,7 @@ Location: Room C3.05
 | Time | Session | Led by |
 | --- | --- | --- |
 | 09:00–10:00 | **Representation:** recap and the Invisible Information Framework | Saurabh Khanna, Wende Tufa, Safdar Rahman, Arindam Bose |
-| 10:00–11:00 | **Access:** envisioning better incentives for knowledge sharing | John Willinsky, Miriam Redi, Stefano Giani |
+| 10:00–11:00 | **Access:** envisioning better incentives for knowledge sharing | John Willinsky, Stefano Giani, Miriam Redi |
 | 11:00–12:00 | **Access:** operationalizing better metrics for the individual and the collective | Ben Domingue, Charles Rahal |
 | 12:00–14:00 | *Lunch* | |
 | 14:00–15:30 | **Open slot:** writing and/or meetings | All participants |
