@@ -15,6 +15,10 @@ The symposium is organized as a series of collaborative working sessions, each b
 
 # Programme
 
+{% comment %}
+Details for each session are in [this shared document](https://amsuni-my.sharepoint.com/:w:/g/personal/s_khanna_uva_nl/IQCwCUUrpUezToNX98NOynCiAV7Fu7wjH0P9F2OB-NkxH6I?e=WDc5sR).
+{% endcomment %}
+
 ## 17 November: Problems and objectives
 
 The first day takes stock of the challenges to fair representation and access, and closes by turning them into a first draft of shared objectives.
@@ -24,7 +28,7 @@ Location: Room C2.04
 | Time | Session | Led by |
 | --- | --- | --- |
 | 09:00–10:00 | **Introduction:** why are we here? | Saurabh Khanna |
-| 10:00–11:00 | **Representation:** identifying knowledge gaps | Miriam Redi |
+| 10:00–11:00 | **Representation:** identifying knowledge gaps | Miriam Redi, Saurabh Khanna |
 | 11:00–12:00 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
 | 12:00–14:00 | *Lunch* | |
 | 14:00–15:00 | **Access:** current state of open access | John Willinsky, Pascal Braak |
