@@ -25,16 +25,15 @@ Location: Room C2.04
 
 | Time | Session | Led by |
 | --- | --- | --- |
-| 09:00–10:00 | **Introduction:** why are we here? | Saurabh Khanna |
-| 10:00–11:00 | **Representation:** identifying knowledge gaps | Miriam Redi, Saurabh Khanna |
-| 11:00–12:00 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
+| 09:00–10:30 | **Introduction:** why are we here? | Saurabh Khanna |
+| 10:30–12:00 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
 | 12:00–14:00 | *Lunch* | |
 | 14:00–15:00 | **Access:** current state of open access | John Willinsky, Pascal Braak |
 | 15:00–16:00 | **Generative AI:** how it affects knowledge representation and access | Charles Rahal |
 | 16:00–17:00 | **Objectives:** a first draft | All participants |
 {: .programme}
 
-- **Representation:** We begin by examining how knowledge gaps can be identified and measured, then turn to language as one of the strongest drivers of exclusion, across both written and oral traditions.
+- **Representation:** We examine language as one of the strongest drivers of exclusion, across both written and oral traditions.
 - **Access:** We take stock of where fair and open access stands today, and of the costs, metrics, and concentrations of prestige that shape who can publish and who can read.
 - **Generative AI:** Large language models are trained on today's skewed knowledge record and increasingly mediate how people find and use it. We discuss what this means for both representation and access.
 - **Objectives:** Drawing on the day's discussions, we draft a first set of shared objectives for a more representative and accessible knowledge ecosystem, and identify the tensions they must navigate, such as openness versus community control, or universal systems versus local specificity.
@@ -48,7 +47,7 @@ Location: Room C3.05
 | Time | Session | Led by |
 | --- | --- | --- |
 | 09:00–10:00 | **Representation:** recap and the Invisible Information Framework | Saurabh Khanna, Wende Tufa, Safdar Rahman, Arindam Bose |
-| 10:00–11:00 | **Access:** envisioning better incentives for knowledge sharing | John Willinsky, Stefano Giani, Miriam Redi |
+| 10:00–11:00 | **Access:** envisioning better incentives for knowledge sharing | John Willinsky, Stefano Giani |
 | 11:00–12:00 | **Access:** operationalizing better metrics for the individual and the collective | Ben Domingue, Charles Rahal |
 | 12:00–14:00 | *Lunch* | |
 | 14:00–15:30 | **Open slot:** writing and/or meetings | All participants |
