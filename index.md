@@ -23,7 +23,7 @@ The first day takes stock of the challenges to fair representation and access, a
 
 Location: Room C2.04
 
-| Time | Session | Led by |
+| Time | Session | Lead discussants |
 | --- | --- | --- |
 | 09:00–10:30 | **Introduction:** why are we here? | Saurabh Khanna |
 | 10:30–12:00 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
@@ -44,7 +44,7 @@ The second day examines concrete approaches towards the objectives drafted on 17
 
 Location: Room C3.05
 
-| Time | Session | Led by |
+| Time | Session | Lead discussants |
 | --- | --- | --- |
 | 09:00–10:00 | **Representation:** recap and the Invisible Information Framework | Saurabh Khanna, Wende Tufa, Safdar Rahman, Arindam Bose |
 | 10:00–11:00 | **Access:** envisioning better incentives for knowledge sharing | John Willinsky, Stefano Giani |
