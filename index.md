@@ -25,17 +25,17 @@ Location: Room C2.04
 
 | Time | Session | Lead discussants |
 | --- | --- | --- |
-| 09:00–10:30 | **Introduction:** why are we here? | Saurabh Khanna |
-| 10:30–12:00 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
-| 12:00–14:00 | *Lunch* | |
-| 14:00–15:00 | **Access:** current state of open access | John Willinsky, Pascal Braak |
-| 15:00–16:00 | **Generative AI:** how it affects knowledge representation and access | Charles Rahal |
-| 16:00–17:00 | **Objectives:** a first draft | All participants |
+| 09:30–10:45 | **Introduction:** why are we here? | Saurabh Khanna |
+| 10:45–11:00 | *Break* | |
+| 11:00–12:30 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
+| 12:30–14:00 | *Lunch* | |
+| 14:00–15:30 | **Access:** current state of scholarly communication | John Willinsky, Charles Rahal |
+| 15:30–15:45 | *Break* | |
+| 15:45–17:00 | **Objectives:** a first draft | All participants |
 {: .programme}
 
 - **Representation:** We examine language as one of the strongest drivers of exclusion, across both written and oral traditions.
-- **Access:** We take stock of where fair and open access stands today, and of the costs, metrics, and concentrations of prestige that shape who can publish and who can read.
-- **Generative AI:** Large language models are trained on today's skewed knowledge record and increasingly mediate how people find and use it. We discuss what this means for both representation and access.
+- **Access:** We take stock of scholarly communication today, including the costs, metrics, incentives, and concentrations of prestige that shape who can produce, publish, and access knowledge.
 - **Objectives:** Drawing on the day's discussions, we draft a first set of shared objectives for a more representative and accessible knowledge ecosystem, and identify the tensions they must navigate, such as openness versus community control, or universal systems versus local specificity.
 
 ## 18 November: Approaches and next steps
@@ -47,9 +47,11 @@ Location: Room C3.05
 | Time | Session | Lead discussants |
 | --- | --- | --- |
 | 09:00–10:00 | **Representation:** recap and the Invisible Information Framework | Saurabh Khanna, Wende Tufa, Safdar Rahman, Arindam Bose |
-| 10:00–11:00 | **Access:** envisioning better incentives for knowledge sharing | John Willinsky, Stefano Giani |
-| 11:00–12:00 | **Access:** operationalizing better metrics for the individual and the collective | Ben Domingue, Charles Rahal |
-| 12:00–14:00 | *Lunch* | |
+| 10:00–10:15 | *Break* | |
+| 10:15–11:15 | **Access:** envisioning better incentives for knowledge sharing | John Willinsky, Stefano Giani |
+| 11:15–11:30 | *Break* | |
+| 11:30–12:30 | **Access:** operationalizing better metrics for the individual and the collective | Charles Rahal, Ben Domingue |
+| 12:30–14:00 | *Lunch* | |
 | 14:00–15:30 | **Open slot:** writing and/or meetings | All participants |
 | 15:30–17:00 | **Final reflections:** the white paper outline and the way ahead | All participants |
 | 18:00 onwards | *Dinner* | |
