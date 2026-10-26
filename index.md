@@ -15,7 +15,7 @@ The symposium is organized as a series of collaborative working sessions, each b
 
 # Programme
 
-<!-- Details for each session are being developed in [this shared document](https://amsuni-my.sharepoint.com/:w:/g/personal/s_khanna_uva_nl/IQCwCUUrpUezToNX98NOynCiAV7Fu7wjH0P9F2OB-NkxH6I?e=WDc5sR). -->
+Details for each session are being developed in [this shared document](https://amsuni-my.sharepoint.com/:w:/g/personal/s_khanna_uva_nl/IQCwCUUrpUezToNX98NOynCiAV7Fu7wjH0P9F2OB-NkxH6I?e=WDc5sR).
 
 ## 17 November: Problems and objectives
 
