@@ -32,6 +32,7 @@ Location: Room C2.04
 | 14:00–15:30 | **Access:** current state of scholarly communication | John Willinsky, Charles Rahal |
 | 15:30–15:45 | *Break* | |
 | 15:45–17:00 | **Objectives:** a first draft | All participants |
+| 17:30 onwards | *Drinks* | |
 {: .programme}
 
 - **Representation:** We examine language as one of the strongest drivers of exclusion, across both written and oral traditions.
@@ -58,7 +59,7 @@ Location: Room C3.05
 {: .programme}
 
 - **Representation:** We open with a recap of the first day, then examine concrete efforts to surface knowledge that is currently missing from the digital record, including the Invisible Information Framework and the Library of Lost Ideas.
-- **Access:** We consider how incentives for researchers and institutions could reward fair and open dissemination, and how better metrics could be put into practice that recognize both individual and collective contributions to knowledge.
+- **Access:** We envision a better landscape for sharing scientific knowledge, with incentives that reward researchers and institutions for fair and open dissemination, and consider how better measures could recognize both individual and collective contributions to knowledge.
 - **Final reflections:** After an open slot for writing and/or meetings, we walk through our outline of the joint white paper and agree on priorities, open questions, and concrete next steps.
 
 # Participants
