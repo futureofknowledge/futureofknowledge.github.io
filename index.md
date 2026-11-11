@@ -17,6 +17,8 @@ The symposium is organized as a series of collaborative working sessions, each b
 
 Details for each session are being developed in [this shared slide deck](https://amsuni-my.sharepoint.com/:p:/g/personal/s_khanna_uva_nl/IQDJP93Z3aasQpoKU83WfD4ZAZndAS8XqIhBYXrBvdjgjVQ?e=J7H6Td).
 
+General notes for each session can be added to [this shared notepad](https://notes.invisible.info/p/foks).
+
 ## 17 November: Problems and objectives
 
 The first day takes stock of the challenges to fair representation and access, and closes by turning them into a first draft of shared objectives.
@@ -27,12 +29,12 @@ Location: Room C2.04
 | --- | --- | --- |
 | 09:30–10:45 | **Introduction:** why are we here? | Saurabh Khanna |
 | 10:45–11:00 | *Break* | |
-| 11:00–12:30 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
-| 12:30–14:00 | *Lunch* | |
+| 11:00–12:20 | **Representation:** the role of language | Sonali Nag, Arindam Bose, Safdar Rahman |
+| 12:30–14:00 | *Lunch* at [De Plantage](https://maps.app.goo.gl/u1AMag3N1qHq8kRW7) | |
 | 14:00–15:30 | **Access:** current state of scholarly communication | John Willinsky, Charles Rahal |
 | 15:30–15:45 | *Break* | |
 | 15:45–17:00 | **Objectives:** a first draft | All participants |
-| 17:15 onwards | *Drinks* | |
+| 17:15 onwards | *Drinks* at [CREA Cafe](https://maps.app.goo.gl/bZ9EvnVw627h7S5B9) | |
 {: .programme}
 
 - **Representation:** We examine language as one of the strongest drivers of exclusion, across both written and oral traditions.
@@ -51,11 +53,11 @@ Location: Room C3.05
 | 10:00–10:15 | *Break* | |
 | 10:15–11:15 | **Access:** envisioning better incentives for knowledge sharing | Stefano Giani, John Willinsky |
 | 11:15–11:30 | *Break* | |
-| 11:30–12:30 | **Access:** operationalizing better metrics for the individual and the collective | Charles Rahal, Ben Domingue |
-| 12:30–14:00 | *Lunch* | |
+| 11:30–12:20 | **Access:** operationalizing better metrics for the individual and the collective | Charles Rahal, Ben Domingue |
+| 12:30–14:00 | *Lunch* at [De Plantage](https://maps.app.goo.gl/u1AMag3N1qHq8kRW7) | |
 | 14:00–15:30 | **Open slot:** writing and/or meetings | All participants |
 | 15:30–17:00 | **Final reflections:** the white paper outline and the way ahead | All participants |
-| 18:00 onwards | *Dinner* | |
+| 18:00 onwards | *Dinner* at [A Beautiful Mess](https://maps.app.goo.gl/CwuLapzQrQvdd2mb9) | |
 {: .programme}
 
 - **Representation:** We open with a recap of the first day, then examine concrete efforts to surface knowledge that is currently missing from the digital record, including the Invisible Information Framework and the Library of Lost Ideas.
