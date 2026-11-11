@@ -32,7 +32,7 @@ Location: Room C2.04
 | 14:00–15:30 | **Access:** current state of scholarly communication | John Willinsky, Charles Rahal |
 | 15:30–15:45 | *Break* | |
 | 15:45–17:00 | **Objectives:** a first draft | All participants |
-| 17:30 onwards | *Drinks* | |
+| 17:15 onwards | *Drinks* | |
 {: .programme}
 
 - **Representation:** We examine language as one of the strongest drivers of exclusion, across both written and oral traditions.
