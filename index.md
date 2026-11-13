@@ -15,7 +15,7 @@ The symposium is organized as a series of collaborative working sessions, each b
 
 # Programme
 
-Details for each session are being developed in [this shared slide deck](https://amsuni-my.sharepoint.com/:p:/g/personal/s_khanna_uva_nl/IQDJP93Z3aasQpoKU83WfD4ZAZndAS8XqIhBYXrBvdjgjVQ?e=J7H6Td).
+Details for each session are being developed in [this shared slide deck](https://amsuni-my.sharepoint.com/:p:/g/personal/s_khanna_uva_nl/IQDJP93Z3aasQpoKU83WfD4ZAZndAS8XqIhBYXrBvdjgjVQ?e=SLeh6p).
 
 General notes for each session can be added to [this shared notepad](https://notes.invisible.info/p/foks).
 
@@ -78,6 +78,7 @@ Location: Room C3.05
 | [Saurabh Khanna](https://saurabh-khanna.github.io/) | Amsterdam School of Communication Research |
 | [Thomas Mullaney](https://silicon.stanford.edu/team/) | Stanford University |
 | [Sonali Nag](https://www.education.ox.ac.uk/person/sonali-nag/) | University of Oxford |
+| [Jochen Peter](https://www.uva.nl/en/profile/p/e/j.peter/j.peter.html) | Amsterdam School of Communication Research |
 | [Charles Rahal](https://crahal.com/) | University of Oxford |
 | [Safdar Rahman](https://www.thecircleindia.org/cohort-list/safdar-rahman) | Lighthouse Foundation |
 | [Miriam Redi](https://meta.wikimedia.org/wiki/User:Miriam_%28WMF%29) | Wikimedia Foundation |
