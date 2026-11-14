@@ -9,6 +9,7 @@ theme: jekyll-theme-minimal
 event_dates: 17–18 November 2026
 event_venue: University of Amsterdam
 event_place: Nieuwe Achtergracht 166, 1018 WV Amsterdam, Netherlands
+event_map: https://maps.app.goo.gl/XRTExcUBLp2ZSaTT7
 plugins:
   - jekyll-seo-tag
 

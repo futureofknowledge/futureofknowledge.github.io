@@ -175,6 +175,11 @@ section table.participants th:nth-child(1) { width: 36%; }
   margin: 0;
 }
 
+.site-place a {
+  color: inherit;
+  text-decoration: underline;
+}
+
 .site-host {
   margin-top: 2em;
   font-size: 13px;
